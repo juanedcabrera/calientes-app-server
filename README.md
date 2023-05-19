@@ -46,6 +46,9 @@ Mongoose as our ODM
 <img src="./assets/2.jpg" alt="Seasons page showing all episodes and relevant info" title="Seasons Page">
 <img src="./assets/3.jpg" alt="Guest page showing the details of that guest" title="Guest Page">
 
+## ERD
+<img src="./assets/erd.png" alt="ERD diagram showing backend schema" title="ERD">
+
 ## MVP
 
 - Landing page that details what the website offers and gives a call to action
@@ -77,6 +80,41 @@ Mongoose as our ODM
 - Make an admin page for easy maintenance of the site from the back-end
 
 - Infographics with cool information that could be shared
+
+## Sprint Days
+
+Day 1:
+- Define workload and who will take what
+- Set up the dev environment, including server and database config
+
+Day 2:
+- Create the necessary database schema for the Hot Ones data.
+- Load data into the database
+- Implement and test each API route to ensure data retrieval and manipulation.
+
+Day 3: 
+- Develop the basic structure of the front-end website with limited design features.
+- Create the essential pages, such as seasons, hot sauces, guests, and other relevant sections.
+
+Day 4: 
+- Design and style the website using CSS to improve its visual appeal.
+- Create and integrate assets, including guest headshots, hot sauce images, and icons.
+
+Day 5: 
+- Integrate and showcase the statistical data obtained from the API.
+- Develop visualizations, such as charts or graphs, to enhance the presentation of statistics.
+
+Day 6:
+- Conduct thorough testing of the website's functionality and responsiveness across different devices.
+- Identify and address any bugs or issues encountered during testing.
+- Optimize the website's performance and remove unnecessary code, including console.logs.
+
+Day 7:
+- Perform a final round of testing to ensure all features work as intended.
+- Address any remaining issues or bugs identified during the testing phase.
+- Prepare the website for deployment to a production environment.
+- Document the setup instructions, APIs, and any additional information for future reference.
+
 ## Authors
 
 - [Andrew Smith](https://www.github.com/continentaldivide)
