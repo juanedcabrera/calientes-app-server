@@ -1,0 +1,16 @@
+{
+  "name": "calientes-app-server",
+  "version": "1.0.0",
+  "description": "Welcome to the Hot Ones Fan Site, the ultimate destination for fans of the popular YouTube show! Immerse yourself in the fiery world of Hot Ones as we bring you a comprehensive collection of episodes, guests, and mind-melting statistics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0"
+  }
+}
