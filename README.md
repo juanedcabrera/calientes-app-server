@@ -46,6 +46,23 @@ Mongoose as our ODM
 <img src="./assets/2.jpg" alt="Seasons page showing all episodes and relevant info" title="Seasons Page">
 <img src="./assets/3.jpg" alt="Guest page showing the details of that guest" title="Guest Page">
 
+## RESTful API Routes
+
+| VERB | URL           | CRUD | DESCRIPTION                                                 |
+|:---- |:------------- |:---- |:----------------------------------------------------------- |
+| GET  | /seasons      | Read | Get array of all seasons                                    |
+| GET  | /episodes     | Read | Get array of all episodes                                   |
+| GET  | /guests       | Read | Get array of all guests                                     |
+| GET  | /sauces       | Read | Get array of all sauces                                     |
+| GET  | /seasons/:id  | Read | Get one season                                              |
+| GET  | /episodes/:id | Read | Get one episode                                             |
+| GET  | /guests/:id   | Read | Get one guest                                               |
+| GET  | /sauces/:id   | Read | Get one sauce                                               |
+| POST | /seasons      | Read | Admin use only for populating content (single item) into DB |
+| POST | /episodes     | Read | Admin use only for populating content (single item) into DB |
+| POST | /guests       | Read | Admin use only for populating content (single item) into DB |
+| POST | /sauces       | Read | Admin use only for populating content (single item) into DB |
+
 ## ERD
 <img src="./assets/erd.png" alt="ERD diagram showing backend schema" title="ERD">
 
