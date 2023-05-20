@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
 })
 
 // controllers
-app.use("/api", require("./controllers/api"));
+app.use("/api-v1", require("./controllers/api-v1"));
 
 // hey listen
 app.listen(PORT, () => {

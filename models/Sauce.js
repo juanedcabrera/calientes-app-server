@@ -9,7 +9,7 @@ const sauceSchema = new mongoose.Schema(
     description: { type: String, required: true },
     scoville: { type: Number, required: true },
     img: { type: String, required: true },
-    likes: { types: Number, required: true },
+    likes: { type: Number, required: true },
     episodes: [
       {
         type: mongoose.Schema.Types.ObjectId,
