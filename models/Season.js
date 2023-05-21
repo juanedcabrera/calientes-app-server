@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 // schema
 const seasonSchema = new mongoose.Schema(
   {
-    number: { type: Number, required: true },
+    seasonNumber: { type: Number, required: true, unique: true },
     episodes: [
       {
         type: mongoose.Schema.Types.ObjectId,
