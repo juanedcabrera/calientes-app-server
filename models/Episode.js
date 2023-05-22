@@ -11,7 +11,7 @@ const episodeSchema = new mongoose.Schema(
       required: true,
     },
     episodeNumber: { type: Number, required: true, unique: true },
-    airDate: { type: String, required: true },
+    airDate: { type: Date, required: true },
     guests: [
       {
         type: mongoose.Schema.Types.ObjectID,
