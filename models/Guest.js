@@ -5,6 +5,7 @@ const mongoose = require('mongoose');
 const guestSchema = new mongoose.Schema(
   {
     name: { type: String, required: true },
+    profession: { type: String, required: true },
     episodes: [
       {
         type: mongoose.Schema.Types.ObjectId,
@@ -16,7 +17,7 @@ const guestSchema = new mongoose.Schema(
     wallOfFlame: { type: Boolean, required: true },
     wallOfShame: { type: Boolean, required: true },
     likes: { type: Number, required: true },
-    img: {type: String, required: true},
+    img: { type: String, required: true },
   },
   {
     timestamps: true,
