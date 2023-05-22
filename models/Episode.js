@@ -11,7 +11,7 @@ const episodeSchema = new mongoose.Schema(
       required: true,
     },
     episodeNumber: { type: Number, required: true, unique: true },
-    airDate: { type: String, required: true },
+    airDate: { type: Date, required: true },
     guests: [
       {
         type: mongoose.Schema.Types.ObjectID,
@@ -20,12 +20,14 @@ const episodeSchema = new mongoose.Schema(
       },
     ],
     sauces: [
-        {
-          type: mongoose.Schema.Types.ObjectId,
-          ref: 'Sauce',
-          required: true,
-        },
-      ],
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Sauce',
+        required: true,
+      },
+    ],
+    success: { type: Boolean, required: true },
+    guestDab: { type: Boolean, required: true },
     likes: { type: Number, required: true },
     carefulCount: { type: Number, required: true },
   },
