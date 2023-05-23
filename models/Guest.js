@@ -13,6 +13,7 @@ const guestSchema = new mongoose.Schema(
         required: true,
       },
     ],
+    episodeDates: [],
     totalWingsEaten: { type: Number, required: true },
     wallOfFlame: { type: Boolean, required: true },
     wallOfShame: { type: Boolean, required: true },
