@@ -10,21 +10,21 @@ const PORT = process.env.PORT || 8000;
 // debug tool
 const rowdyResults = rowdy.begin(app);
 // app.use
-app.use(cors())
-app.use(express.json())
+app.use(cors());
+app.use(express.json());
 
 // GET / test index
-app.get("/", (req, res) => {
-    res.json({ msg: "Hello World! 🙋‍♂️"})
-})
+app.get('/', (req, res) => {
+  res.json({ msg: 'Hello World! 🙋‍♂️' });
+});
 
 // controllers
-app.use("/api-v1", require("./controllers/api-v1"));
+app.use('/api-v1', require('./controllers/api-v1'));
 
 // hey listen
 app.listen(PORT, () => {
-    rowdyResults.print()
-    console.log(`Quiet the mind while you listen to tunes from ${PORT} 📻`)
-})
+  rowdyResults.print();
+  console.log(`Quiet the mind while you listen to tunes from ${PORT} 📻`);
+});
 
-module.exports = app
+module.exports = app;
