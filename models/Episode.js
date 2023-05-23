@@ -10,7 +10,8 @@ const episodeSchema = new mongoose.Schema(
       ref: 'Season',
       required: true,
     },
-    episodeNumber: { type: Number, required: true, unique: true },
+    overallEpisodeNumber: { type: Number, required: true, unique: true },
+    seasonEpisodeNumber: { type: Number, required: true },
     airDate: { type: Date, required: true },
     guests: [
       {
