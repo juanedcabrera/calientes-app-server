@@ -16,7 +16,6 @@ const episodeSchema = new mongoose.Schema(
       {
         type: mongoose.Schema.Types.ObjectID,
         ref: 'Guest',
-        required: true,
       },
     ],
     sauces: [
