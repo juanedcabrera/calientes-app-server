@@ -4,7 +4,7 @@ module.exports = {
       {
         title:
           "Tony Yayo Talks Shmoney Dance & Eminem's Taco Habit While Eating Spicy Chicken Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 1,
         seasonEpisodeNumber: 1,
         airDate: 1426118400000,
@@ -18,7 +18,7 @@ module.exports = {
       {
         title:
           'Anthony Rizzo On Chicago Cubs Rivalries & Baseball Superstitions While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 2,
         seasonEpisodeNumber: 2,
         airDate: 1431388800000,
@@ -32,7 +32,7 @@ module.exports = {
       {
         title:
           'Machine Gun Kelly Talks Diddy, Hangovers, & Amber Rose While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 3,
         seasonEpisodeNumber: 3,
         airDate: 1433980800000,
@@ -46,7 +46,7 @@ module.exports = {
       {
         title:
           'Gunplay Talks Rick Ross, Wingstop, and X-Box Live Fights While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 4,
         seasonEpisodeNumber: 4,
         airDate: 1435017600000,
@@ -60,7 +60,7 @@ module.exports = {
       {
         title:
           'Ja Rule Talks 50 Cent Beef, Jail Recipes, and Media Stereotypes While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 5,
         seasonEpisodeNumber: 5,
         airDate: 1439251200000,
@@ -74,7 +74,7 @@ module.exports = {
       {
         title:
           'B.o.B Talks Eggplant Fridays, Kid Rock, and Snapchat While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 6,
         seasonEpisodeNumber: 6,
         airDate: 1440547200000,
@@ -88,7 +88,7 @@ module.exports = {
       {
         title:
           'Prince Amukamara Talks NFL Salaries & Pre-Game Sex While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 7,
         seasonEpisodeNumber: 7,
         airDate: 1444176000000,
@@ -102,7 +102,7 @@ module.exports = {
       {
         title:
           'DJ Khaled Talks Fuccbois, Finga Licking, and Media Dinosaurs While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 8,
         seasonEpisodeNumber: 8,
         airDate: 1445472000000,
@@ -116,7 +116,7 @@ module.exports = {
       {
         title:
           'Curren$y Talks Munchies, Industry Games, and Rap Dogs While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 9,
         seasonEpisodeNumber: 1,
         airDate: 1449705600000,
@@ -130,7 +130,7 @@ module.exports = {
       {
         title:
           "Tinashe Talks NFL Dances and 2015's Sexiest Songs While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 10,
         seasonEpisodeNumber: 2,
         airDate: 1450310400000,
@@ -144,7 +144,7 @@ module.exports = {
       {
         title:
           'Tommy Chong Talks Weed, Bernie Sanders, and Smoking with Snoop While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 11,
         seasonEpisodeNumber: 3,
         airDate: 1454457600000,
@@ -158,7 +158,7 @@ module.exports = {
       {
         title:
           'T.J. Miller Talks Deadpool, Hecklers, and Relationship Advice While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 12,
         seasonEpisodeNumber: 4,
         airDate: 1455235200000,
@@ -172,7 +172,7 @@ module.exports = {
       {
         title:
           "Coolio Talks Hip-Hop Cooking and 'Gangsta's Paradise' Folklore While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 13,
         seasonEpisodeNumber: 5,
         airDate: 1457308800000,
@@ -186,7 +186,7 @@ module.exports = {
       {
         title:
           'Joey Fatone Talks *NSYNC, DJ Khaled, and Guy Fieri While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 14,
         seasonEpisodeNumber: 6,
         airDate: 1459987200000,
@@ -199,7 +199,7 @@ module.exports = {
       },
       {
         title: 'Key & Peele Lose Their Minds Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 15,
         seasonEpisodeNumber: 7,
         airDate: 1461801600000,
@@ -212,7 +212,7 @@ module.exports = {
       },
       {
         title: 'Riff Raff Goes Full Burly Boy on Some Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 16,
         seasonEpisodeNumber: 8,
         airDate: 1462406400000,
@@ -225,7 +225,7 @@ module.exports = {
       },
       {
         title: 'Eddie Huang Gets Destroyed by Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 17,
         seasonEpisodeNumber: 9,
         airDate: 1464652800000,
@@ -239,7 +239,7 @@ module.exports = {
       {
         title:
           "Chris D'Elia Turns Into DJ Khaled While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 18,
         seasonEpisodeNumber: 10,
         airDate: 1465430400000,
@@ -252,7 +252,7 @@ module.exports = {
       },
       {
         title: 'Mike Epps Gets Crushed by Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 19,
         seasonEpisodeNumber: 11,
         airDate: 1466467200000,
@@ -266,7 +266,7 @@ module.exports = {
       {
         title:
           'Jim Gaffigan Rediscovers His Flop Sweat Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 20,
         seasonEpisodeNumber: 12,
         airDate: 1466640000000,
@@ -279,7 +279,7 @@ module.exports = {
       },
       {
         title: 'Carly Aquilino Takes on the Spicy Wings Challenge | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 21,
         seasonEpisodeNumber: 13,
         airDate: 1467244800000,
@@ -292,7 +292,7 @@ module.exports = {
       },
       {
         title: 'Redman Wilds Out Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 22,
         seasonEpisodeNumber: 14,
         airDate: 1467849600000,
@@ -305,7 +305,7 @@ module.exports = {
       },
       {
         title: 'Rob Gronkowski Gets Blindsided by Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 23,
         seasonEpisodeNumber: 15,
         airDate: 1468454400000,
@@ -318,7 +318,7 @@ module.exports = {
       },
       {
         title: 'Rob Corddry Cries Real Tears Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 24,
         seasonEpisodeNumber: 16,
         airDate: 1469059200000,
@@ -331,7 +331,7 @@ module.exports = {
       },
       {
         title: 'Jeff Ross Gets Roasted by Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 25,
         seasonEpisodeNumber: 17,
         airDate: 1469664000000,
@@ -344,7 +344,7 @@ module.exports = {
       },
       {
         title: 'David Cross Embraces the Extremes of Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 26,
         seasonEpisodeNumber: 18,
         airDate: 1469750400000,
@@ -358,7 +358,7 @@ module.exports = {
       {
         title:
           'Eric Andre Turns Into Tay Zonday While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 27,
         seasonEpisodeNumber: 19,
         airDate: 1470268800000,
@@ -371,7 +371,7 @@ module.exports = {
       },
       {
         title: 'Joe Budden Keeps It Real While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 28,
         seasonEpisodeNumber: 20,
         airDate: 1470873600000,
@@ -385,7 +385,7 @@ module.exports = {
       {
         title:
           'Matty Matheson Turns Into a Motivational Speaker Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 29,
         seasonEpisodeNumber: 21,
         airDate: 1471478400000,
@@ -398,7 +398,7 @@ module.exports = {
       },
       {
         title: 'RZA and Paul Banks Tag Team Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 30,
         seasonEpisodeNumber: 22,
         airDate: 1472083200000,
@@ -411,7 +411,7 @@ module.exports = {
       },
       {
         title: 'Bert Kreischer Sweats Profusely Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 31,
         seasonEpisodeNumber: 23,
         airDate: 1472688000000,
@@ -424,7 +424,7 @@ module.exports = {
       },
       {
         title: 'YG Keeps His Bool Eating Spicy Nuggets | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 32,
         seasonEpisodeNumber: 24,
         airDate: 1473292800000,
@@ -438,7 +438,7 @@ module.exports = {
       {
         title:
           'Jay Pharoah Has a Staring Contest While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 33,
         seasonEpisodeNumber: 25,
         airDate: 1473897600000,
@@ -452,7 +452,7 @@ module.exports = {
       {
         title:
           'Harley Morenstein Has His Worst Day of 2016 Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 34,
         seasonEpisodeNumber: 27,
         airDate: 1474502400000,
@@ -465,7 +465,7 @@ module.exports = {
       },
       {
         title: 'Travis Kelce Gets Woozy Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 35,
         seasonEpisodeNumber: 28,
         airDate: 1475107200000,
@@ -479,7 +479,7 @@ module.exports = {
       {
         title:
           'Hasan Minhaj Has an Out-of-Body Experience Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 36,
         seasonEpisodeNumber: 29,
         airDate: 1475712000000,
@@ -492,7 +492,7 @@ module.exports = {
       },
       {
         title: 'Kevin Hart Catches a High Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 37,
         seasonEpisodeNumber: 30,
         airDate: 1476144000000,
@@ -505,7 +505,7 @@ module.exports = {
       },
       {
         title: 'Martin Garrix Tests His Limits Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 38,
         seasonEpisodeNumber: 32,
         airDate: 1476921600000,
@@ -518,7 +518,7 @@ module.exports = {
       },
       {
         title: 'Bobby Lee Has an Accident Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 39,
         seasonEpisodeNumber: 33,
         airDate: 1477526400000,
@@ -531,7 +531,7 @@ module.exports = {
       },
       {
         title: 'Tony Hawk Eats Spicy Wings LIVE at ComplexCon | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 40,
         seasonEpisodeNumber: 35,
         airDate: 1478390400000,
@@ -544,7 +544,7 @@ module.exports = {
       },
       {
         title: 'Action Bronson Blows His High Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 41,
         seasonEpisodeNumber: 37,
         airDate: 1478736000000,
@@ -557,7 +557,7 @@ module.exports = {
       },
       {
         title: 'T-Pain Has a Tongue Seizure Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 42,
         seasonEpisodeNumber: 38,
         airDate: 1479340800000,
@@ -570,7 +570,7 @@ module.exports = {
       },
       {
         title: 'Rachael Ray Mainlines Hot Sauce for Thanksgiving | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 43,
         seasonEpisodeNumber: 39,
         airDate: 1479945600000,
@@ -584,7 +584,7 @@ module.exports = {
       {
         title:
           'Tom Colicchio Goes Full Top Chef on Some Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 44,
         seasonEpisodeNumber: 40,
         airDate: 1480550400000,
@@ -598,7 +598,7 @@ module.exports = {
       {
         title:
           'Post Malone Sauces on Everyone While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 45,
         seasonEpisodeNumber: 41,
         airDate: 1481155200000,
@@ -611,7 +611,7 @@ module.exports = {
       },
       {
         title: 'N.O.R.E. Gets Wasted While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 46,
         seasonEpisodeNumber: 42,
         airDate: 1481760000000,
@@ -625,7 +625,7 @@ module.exports = {
       {
         title:
           'James Franco and Bryan Cranston Bond Over Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 47,
         seasonEpisodeNumber: 43,
         airDate: 1482364800000,
@@ -638,7 +638,7 @@ module.exports = {
       },
       {
         title: 'Padma Lakshmi Gracefully Destroys Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 48,
         seasonEpisodeNumber: 1,
         airDate: 1484784000000,
@@ -652,7 +652,7 @@ module.exports = {
       {
         title:
           "Joey 'CoCo' Diaz Breaks Out the Blue Cheese While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 49,
         seasonEpisodeNumber: 2,
         airDate: 1485388800000,
@@ -665,7 +665,7 @@ module.exports = {
       },
       {
         title: 'Danny Brown Has An Orgasm Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 50,
         seasonEpisodeNumber: 3,
         airDate: 1485993600000,
@@ -679,7 +679,7 @@ module.exports = {
       {
         title:
           'Ricky Gervais Pits His Mild British Palate Against Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 51,
         seasonEpisodeNumber: 4,
         airDate: 1486598400000,
@@ -692,7 +692,7 @@ module.exports = {
       },
       {
         title: 'Charlie Day Learns to Love Ridiculously Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 52,
         seasonEpisodeNumber: 5,
         airDate: 1487203200000,
@@ -706,7 +706,7 @@ module.exports = {
       {
         title:
           'Mac DeMarco Tries to Stay Chill While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 53,
         seasonEpisodeNumber: 6,
         airDate: 1487808000000,
@@ -720,7 +720,7 @@ module.exports = {
       {
         title:
           'Russell Brand Achieves Enlightenment While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 54,
         seasonEpisodeNumber: 7,
         airDate: 1488412800000,
@@ -734,7 +734,7 @@ module.exports = {
       {
         title:
           'Charlie Sloth Makes His Mum Proud Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 55,
         seasonEpisodeNumber: 8,
         airDate: 1489017600000,
@@ -747,7 +747,7 @@ module.exports = {
       },
       {
         title: 'Kyle Kinane Gets Angry Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 56,
         seasonEpisodeNumber: 9,
         airDate: 1489622400000,
@@ -761,7 +761,7 @@ module.exports = {
       {
         title:
           'Dax Shepard Does Mental Math While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 57,
         seasonEpisodeNumber: 10,
         airDate: 1490227200000,
@@ -775,7 +775,7 @@ module.exports = {
       {
         title:
           'H3H3 Productions Does Couples Therapy While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 58,
         seasonEpisodeNumber: 11,
         airDate: 1490832000000,
@@ -789,7 +789,7 @@ module.exports = {
       {
         title:
           'Keke Palmer Laughs Uncontrollably While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 59,
         seasonEpisodeNumber: 12,
         airDate: 1491436800000,
@@ -802,7 +802,7 @@ module.exports = {
       },
       {
         title: 'Charlamagne Tha God Gets Heated Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 60,
         seasonEpisodeNumber: 13,
         airDate: 1492041600000,
@@ -816,7 +816,7 @@ module.exports = {
       {
         title:
           'DJ Snake Reveals His Human Side While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 61,
         seasonEpisodeNumber: 14,
         airDate: 1492646400000,
@@ -829,7 +829,7 @@ module.exports = {
       },
       {
         title: 'Guy Fieri Becomes the Mayor of Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 62,
         seasonEpisodeNumber: 15,
         airDate: 1493251200000,
@@ -842,7 +842,7 @@ module.exports = {
       },
       {
         title: 'Kevin Love Gets Dunked On By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 63,
         seasonEpisodeNumber: 16,
         airDate: 1493856000000,
@@ -856,7 +856,7 @@ module.exports = {
       {
         title:
           'Neil deGrasse Tyson Explains the Universe While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 64,
         seasonEpisodeNumber: 17,
         airDate: 1494460800000,
@@ -870,7 +870,7 @@ module.exports = {
       {
         title:
           'Thomas Middleditch Does Improv While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 65,
         seasonEpisodeNumber: 18,
         airDate: 1495065600000,
@@ -883,7 +883,7 @@ module.exports = {
       },
       {
         title: 'Andy Cohen Spills the Tea While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 66,
         seasonEpisodeNumber: 19,
         airDate: 1495670400000,
@@ -896,7 +896,7 @@ module.exports = {
       },
       {
         title: 'Tom Arnold Melts Down While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 67,
         seasonEpisodeNumber: 20,
         airDate: 1496275200000,
@@ -909,7 +909,7 @@ module.exports = {
       },
       {
         title: 'Coyote Peterson Gets STUNG by Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 68,
         seasonEpisodeNumber: 21,
         airDate: 1496880000000,
@@ -922,7 +922,7 @@ module.exports = {
       },
       {
         title: 'Nick Kroll Delivers a PSA While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 69,
         seasonEpisodeNumber: 22,
         airDate: 1497484800000,
@@ -936,7 +936,7 @@ module.exports = {
       {
         title:
           'Superfan Brett Baker Grills Sean Evans Over Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 70,
         seasonEpisodeNumber: 23,
         airDate: 1498089600000,
@@ -950,7 +950,7 @@ module.exports = {
       {
         title:
           'Seth Rogen and Dominic Cooper Suffer While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 71,
         seasonEpisodeNumber: 24,
         airDate: 1498694400000,
@@ -964,7 +964,7 @@ module.exports = {
       {
         title:
           'Cara Delevingne Shows Her Hot Sauce Balls While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 72,
         seasonEpisodeNumber: 1,
         airDate: 1500508800000,
@@ -977,7 +977,7 @@ module.exports = {
       },
       {
         title: 'Liam Payne Gets Cocky Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 73,
         seasonEpisodeNumber: 2,
         airDate: 1501113600000,
@@ -991,7 +991,7 @@ module.exports = {
       {
         title:
           'Steve-O Tells Insane Stories While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 74,
         seasonEpisodeNumber: 3,
         airDate: 1501718400000,
@@ -1005,7 +1005,7 @@ module.exports = {
       {
         title:
           'Vince Staples Delivers Hot Takes While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 75,
         seasonEpisodeNumber: 4,
         airDate: 1502323200000,
@@ -1018,7 +1018,7 @@ module.exports = {
       },
       {
         title: 'Adam Richman Fanboys Out While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 76,
         seasonEpisodeNumber: 5,
         airDate: 1502928000000,
@@ -1031,7 +1031,7 @@ module.exports = {
       },
       {
         title: 'ASAP Ferg Harlem Shakes While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 77,
         seasonEpisodeNumber: 6,
         airDate: 1503532800000,
@@ -1044,7 +1044,7 @@ module.exports = {
       },
       {
         title: 'Kevin Durant Sweats It Out Over Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 78,
         seasonEpisodeNumber: 7,
         airDate: 1504137600000,
@@ -1057,7 +1057,7 @@ module.exports = {
       },
       {
         title: 'Henry Rollins Channels His Anger at Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 79,
         seasonEpisodeNumber: 8,
         airDate: 1504742400000,
@@ -1070,7 +1070,7 @@ module.exports = {
       },
       {
         title: 'Dillon Francis Hurts His Body with Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 80,
         seasonEpisodeNumber: 9,
         airDate: 1505347200000,
@@ -1083,7 +1083,7 @@ module.exports = {
       },
       {
         title: 'Joji Sets His Face on Fire While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 81,
         seasonEpisodeNumber: 10,
         airDate: 1505952000000,
@@ -1097,7 +1097,7 @@ module.exports = {
       {
         title:
           'Wanda Sykes Confesses Everything While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 82,
         seasonEpisodeNumber: 11,
         airDate: 1506556800000,
@@ -1110,7 +1110,7 @@ module.exports = {
       },
       {
         title: 'Terry Crews Hallucinates While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 83,
         seasonEpisodeNumber: 12,
         airDate: 1507161600000,
@@ -1124,7 +1124,7 @@ module.exports = {
       {
         title:
           'Gary Vaynerchuk Tests His Mental Toughness While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 84,
         seasonEpisodeNumber: 13,
         airDate: 1507766400000,
@@ -1138,7 +1138,7 @@ module.exports = {
       {
         title:
           'Artie Lange Is Raw and Uncensored While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 85,
         seasonEpisodeNumber: 14,
         airDate: 1508371200000,
@@ -1151,7 +1151,7 @@ module.exports = {
       },
       {
         title: 'Chris Jericho Gets Body Slammed by Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 86,
         seasonEpisodeNumber: 15,
         airDate: 1508976000000,
@@ -1165,7 +1165,7 @@ module.exports = {
       {
         title:
           'Gabrielle Union Impersonates DMX While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 87,
         seasonEpisodeNumber: 16,
         airDate: 1509580800000,
@@ -1178,7 +1178,7 @@ module.exports = {
       },
       {
         title: 'Wale Battles Spicy Wings LIVE | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 88,
         seasonEpisodeNumber: 17,
         airDate: 1510185600000,
@@ -1192,7 +1192,7 @@ module.exports = {
       {
         title:
           'Bob Saget Hiccups Uncontrollably While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 89,
         seasonEpisodeNumber: 18,
         airDate: 1510790400000,
@@ -1206,7 +1206,7 @@ module.exports = {
       {
         title:
           'Alexa Chung Fears for Her Life While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 90,
         seasonEpisodeNumber: 20,
         airDate: 1512000000000,
@@ -1220,7 +1220,7 @@ module.exports = {
       {
         title:
           "Logic Solves a Rubik's Cube While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 91,
         seasonEpisodeNumber: 21,
         airDate: 1512604800000,
@@ -1234,7 +1234,7 @@ module.exports = {
       {
         title:
           'Casey Neistat Melts His Face Off While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 92,
         seasonEpisodeNumber: 22,
         airDate: 1513209600000,
@@ -1247,7 +1247,7 @@ module.exports = {
       },
       {
         title: 'Chili Klaus Faces the Most Extreme Hot Ones Ever',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 93,
         seasonEpisodeNumber: 23,
         airDate: 1514419200000,
@@ -1261,7 +1261,7 @@ module.exports = {
       {
         title:
           'Taraji P. Henson Needs a Stunt Double to Eat Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 94,
         seasonEpisodeNumber: 1,
         airDate: 1516233600000,
@@ -1274,7 +1274,7 @@ module.exports = {
       },
       {
         title: 'Sasha Banks Bosses Up While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 95,
         seasonEpisodeNumber: 2,
         airDate: 1516838400000,
@@ -1287,7 +1287,7 @@ module.exports = {
       },
       {
         title: 'Von Miller Geeks Out Over Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 96,
         seasonEpisodeNumber: 3,
         airDate: 1517443200000,
@@ -1301,7 +1301,7 @@ module.exports = {
       {
         title:
           'Rich Brian Experiences Peak Bromance While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 97,
         seasonEpisodeNumber: 4,
         airDate: 1518048000000,
@@ -1314,7 +1314,7 @@ module.exports = {
       },
       {
         title: 'Hannibal Buress Freestyles While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 98,
         seasonEpisodeNumber: 5,
         airDate: 1518652800000,
@@ -1327,7 +1327,7 @@ module.exports = {
       },
       {
         title: 'Michael B. Jordan Gets Knocked Out By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 99,
         seasonEpisodeNumber: 6,
         airDate: 1519257600000,
@@ -1341,7 +1341,7 @@ module.exports = {
       {
         title:
           'Ty Burrell Fears Sudden Death While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 100,
         seasonEpisodeNumber: 7,
         airDate: 1519862400000,
@@ -1355,7 +1355,7 @@ module.exports = {
       {
         title:
           'Charlize Theron Takes a Rorschach Test While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 101,
         seasonEpisodeNumber: 8,
         airDate: 1520467200000,
@@ -1369,7 +1369,7 @@ module.exports = {
       {
         title:
           'Adam Rippon Competes in the Olympics of Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 102,
         seasonEpisodeNumber: 9,
         airDate: 1521072000000,
@@ -1383,7 +1383,7 @@ module.exports = {
       {
         title:
           'Gabriel Iglesias Does Wrestling Trivia While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 103,
         seasonEpisodeNumber: 10,
         airDate: 1521676800000,
@@ -1397,7 +1397,7 @@ module.exports = {
       {
         title:
           'Shawn Mendes Reveals a New Side of Himself While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 104,
         seasonEpisodeNumber: 11,
         airDate: 1522281600000,
@@ -1411,7 +1411,7 @@ module.exports = {
       {
         title:
           'Philip DeFranco Sets a YouTube Record While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 105,
         seasonEpisodeNumber: 12,
         airDate: 1522886400000,
@@ -1424,7 +1424,7 @@ module.exports = {
       },
       {
         title: 'Trick Daddy Prays for Help While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 106,
         seasonEpisodeNumber: 13,
         airDate: 1523491200000,
@@ -1438,7 +1438,7 @@ module.exports = {
       {
         title:
           'Tyra Banks Cries For Her Mom While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 107,
         seasonEpisodeNumber: 14,
         airDate: 1524096000000,
@@ -1451,7 +1451,7 @@ module.exports = {
       },
       {
         title: 'Alton Brown Rigorously Reviews Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 108,
         seasonEpisodeNumber: 15,
         airDate: 1524700800000,
@@ -1464,7 +1464,7 @@ module.exports = {
       },
       {
         title: 'John Mayer Has a Sing-Off While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 109,
         seasonEpisodeNumber: 16,
         airDate: 1525305600000,
@@ -1477,7 +1477,7 @@ module.exports = {
       },
       {
         title: 'Johnny Knoxville Gets Smoked By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 110,
         seasonEpisodeNumber: 1,
         airDate: 1528329600000,
@@ -1491,7 +1491,7 @@ module.exports = {
       {
         title:
           'Natalie Portman Pirouettes in Pain While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 111,
         seasonEpisodeNumber: 2,
         airDate: 1528934400000,
@@ -1505,7 +1505,7 @@ module.exports = {
       {
         title:
           'Marques Brownlee Ranks Hot Sauce Labels While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 112,
         seasonEpisodeNumber: 3,
         airDate: 1529539200000,
@@ -1519,7 +1519,7 @@ module.exports = {
       {
         title:
           'Joel Embiid Trusts the Process While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 113,
         seasonEpisodeNumber: 4,
         airDate: 1530144000000,
@@ -1532,7 +1532,7 @@ module.exports = {
       },
       {
         title: 'Tom Segura Tears Up While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 114,
         seasonEpisodeNumber: 5,
         airDate: 1531353600000,
@@ -1546,7 +1546,7 @@ module.exports = {
       {
         title:
           'Joji and Rich Brian Play the Newlywed Game While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 115,
         seasonEpisodeNumber: 6,
         airDate: 1531958400000,
@@ -1559,7 +1559,7 @@ module.exports = {
       },
       {
         title: 'Wiz Khalifa Gets Smoked Out By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 116,
         seasonEpisodeNumber: 7,
         airDate: 1532563200000,
@@ -1572,7 +1572,7 @@ module.exports = {
       },
       {
         title: 'Al Roker Gets Hit by a Heat Wave of Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 117,
         seasonEpisodeNumber: 8,
         airDate: 1533168000000,
@@ -1586,7 +1586,7 @@ module.exports = {
       {
         title:
           'Michael Cera Experiences Mouth Pains While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 118,
         seasonEpisodeNumber: 9,
         airDate: 1533772800000,
@@ -1599,7 +1599,7 @@ module.exports = {
       },
       {
         title: 'Issa Rae Raps While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 119,
         seasonEpisodeNumber: 10,
         airDate: 1534377600000,
@@ -1613,7 +1613,7 @@ module.exports = {
       {
         title:
           'Rhett & Link Hiccup Uncontrollably While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 120,
         seasonEpisodeNumber: 11,
         airDate: 1534982400000,
@@ -1627,7 +1627,7 @@ module.exports = {
       {
         title:
           'Jeff Goldblum Says He Likes to Be Called Daddy While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 121,
         seasonEpisodeNumber: 12,
         airDate: 1535587200000,
@@ -1640,7 +1640,7 @@ module.exports = {
       },
       {
         title: 'Eddie Huang Seeks Revenge Against Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 122,
         seasonEpisodeNumber: 13,
         airDate: 1536192000000,
@@ -1653,7 +1653,7 @@ module.exports = {
       },
       {
         title: 'Chrissy Teigen Gets Drunk on Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 123,
         seasonEpisodeNumber: 1,
         airDate: 1538611200000,
@@ -1666,7 +1666,7 @@ module.exports = {
       },
       {
         title: 'Tenacious D Gets Rocked By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 124,
         seasonEpisodeNumber: 2,
         airDate: 1539216000000,
@@ -1680,7 +1680,7 @@ module.exports = {
       {
         title:
           'Anderson .Paak Sings Hot Sauce Ballads While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 125,
         seasonEpisodeNumber: 3,
         airDate: 1539820800000,
@@ -1694,7 +1694,7 @@ module.exports = {
       {
         title:
           'Adam Carolla Rants Like a Pro While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 126,
         seasonEpisodeNumber: 4,
         airDate: 1540425600000,
@@ -1708,7 +1708,7 @@ module.exports = {
       {
         title:
           'Lil Yachty Has His First Experience With Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 127,
         seasonEpisodeNumber: 5,
         airDate: 1541030400000,
@@ -1722,7 +1722,7 @@ module.exports = {
       {
         title:
           'E-40 Asks a Fan to Save Him While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 128,
         seasonEpisodeNumber: 6,
         airDate: 1541635200000,
@@ -1736,7 +1736,7 @@ module.exports = {
       {
         title:
           'Lilly Singh Fears for Her Life While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 129,
         seasonEpisodeNumber: 7,
         airDate: 1542240000000,
@@ -1750,7 +1750,7 @@ module.exports = {
       {
         title:
           'Blake Griffin Gets Full-Court Pressed By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 130,
         seasonEpisodeNumber: 8,
         airDate: 1542844800000,
@@ -1764,7 +1764,7 @@ module.exports = {
       {
         title:
           'Bill Burr Gets Red in the Face While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 131,
         seasonEpisodeNumber: 9,
         airDate: 1543449600000,
@@ -1777,7 +1777,7 @@ module.exports = {
       },
       {
         title: 'Pete Holmes Does Improv While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 132,
         seasonEpisodeNumber: 10,
         airDate: 1544054400000,
@@ -1791,7 +1791,7 @@ module.exports = {
       {
         title:
           'Vanessa Hudgens Does Tongue Twisters While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 133,
         seasonEpisodeNumber: 11,
         airDate: 1544659200000,
@@ -1805,7 +1805,7 @@ module.exports = {
       {
         title:
           "'Weird Al' Yankovic Goes Beyond Insanity While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 134,
         seasonEpisodeNumber: 12,
         airDate: 1545264000000,
@@ -1818,7 +1818,7 @@ module.exports = {
       },
       {
         title: 'Gordon Ramsay Savagely Critiques Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 135,
         seasonEpisodeNumber: 1,
         airDate: 1548288000000,
@@ -1832,7 +1832,7 @@ module.exports = {
       {
         title:
           'Abbi and Ilana of Broad City Go Numb While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 136,
         seasonEpisodeNumber: 2,
         airDate: 1548892800000,
@@ -1845,7 +1845,7 @@ module.exports = {
       },
       {
         title: 'Seth Meyers Unravels While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 137,
         seasonEpisodeNumber: 3,
         airDate: 1549497600000,
@@ -1859,7 +1859,7 @@ module.exports = {
       {
         title:
           'Ken Jeong Performs a Physical While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 138,
         seasonEpisodeNumber: 4,
         airDate: 1550102400000,
@@ -1872,7 +1872,7 @@ module.exports = {
       },
       {
         title: 'Desus and Mero Get Smacked By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 139,
         seasonEpisodeNumber: 5,
         airDate: 1550707200000,
@@ -1886,7 +1886,7 @@ module.exports = {
       {
         title:
           'Offset Screams Like Ric Flair While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 140,
         seasonEpisodeNumber: 6,
         airDate: 1551312000000,
@@ -1899,7 +1899,7 @@ module.exports = {
       },
       {
         title: 'Billie Eilish Freaks Out While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 141,
         seasonEpisodeNumber: 7,
         airDate: 1551916800000,
@@ -1913,7 +1913,7 @@ module.exports = {
       {
         title:
           'Shaq Tries to Not Make a Face While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 142,
         seasonEpisodeNumber: 8,
         airDate: 1552521600000,
@@ -1927,7 +1927,7 @@ module.exports = {
       {
         title:
           'Theo Von Fights the Dark Arts While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 143,
         seasonEpisodeNumber: 9,
         airDate: 1553126400000,
@@ -1940,7 +1940,7 @@ module.exports = {
       },
       {
         title: 'Jimmy Butler Goes Rocky Balboa on Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 144,
         seasonEpisodeNumber: 10,
         airDate: 1553731200000,
@@ -1954,7 +1954,7 @@ module.exports = {
       {
         title:
           'Chelsea Handler Goes Off the Rails While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 145,
         seasonEpisodeNumber: 11,
         airDate: 1554336000000,
@@ -1968,7 +1968,7 @@ module.exports = {
       {
         title:
           'Scarlett Johansson Tries To Not Spoil Avengers While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 146,
         seasonEpisodeNumber: 12,
         airDate: 1554940800000,
@@ -1981,7 +1981,7 @@ module.exports = {
       },
       {
         title: 'The Jonas Brothers Burn Up While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 147,
         seasonEpisodeNumber: 1,
         airDate: 1559174400000,
@@ -1994,7 +1994,7 @@ module.exports = {
       },
       {
         title: 'Halle Berry Refuses to Lose to Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 148,
         seasonEpisodeNumber: 2,
         airDate: 1559779200000,
@@ -2008,7 +2008,7 @@ module.exports = {
       {
         title:
           'Trevor Noah Rides a Pain Rollercoaster While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 149,
         seasonEpisodeNumber: 3,
         airDate: 1560384000000,
@@ -2021,7 +2021,7 @@ module.exports = {
       },
       {
         title: 'Aubrey Plaza Snorts Milk While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 150,
         seasonEpisodeNumber: 4,
         airDate: 1560988800000,
@@ -2034,7 +2034,7 @@ module.exports = {
       },
       {
         title: 'Schoolboy Q Learns to Respect Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 151,
         seasonEpisodeNumber: 5,
         airDate: 1561593600000,
@@ -2047,7 +2047,7 @@ module.exports = {
       },
       {
         title: 'Adam Devine Gets Patriotic While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 152,
         seasonEpisodeNumber: 6,
         airDate: 1562198400000,
@@ -2061,7 +2061,7 @@ module.exports = {
       {
         title:
           'Kumail Nanjiani Sweats Intensely While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 153,
         seasonEpisodeNumber: 7,
         airDate: 1562803200000,
@@ -2075,7 +2075,7 @@ module.exports = {
       {
         title:
           'Binging with Babish Gets a Tattoo While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 154,
         seasonEpisodeNumber: 8,
         airDate: 1563408000000,
@@ -2088,7 +2088,7 @@ module.exports = {
       },
       {
         title: 'Juice WRLD Eats Spicy Wings LIVE | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 155,
         seasonEpisodeNumber: 9,
         airDate: 1564012800000,
@@ -2101,7 +2101,7 @@ module.exports = {
       },
       {
         title: 'Idris Elba Wants to Fight While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 156,
         seasonEpisodeNumber: 10,
         airDate: 1564617600000,
@@ -2115,7 +2115,7 @@ module.exports = {
       {
         title:
           'Kristen Bell Ponders Morality While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 157,
         seasonEpisodeNumber: 11,
         airDate: 1565222400000,
@@ -2129,7 +2129,7 @@ module.exports = {
       {
         title:
           'Stone Cold Steve Austin Puts the Stunner on Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 158,
         seasonEpisodeNumber: 12,
         airDate: 1565827200000,
@@ -2142,7 +2142,7 @@ module.exports = {
       },
       {
         title: 'Shia LaBeouf Sheds a Tear While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 159,
         seasonEpisodeNumber: 1,
         airDate: 1568851200000,
@@ -2156,7 +2156,7 @@ module.exports = {
       {
         title:
           'Ashton Kutcher Gets an Endorphin Rush While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 160,
         seasonEpisodeNumber: 2,
         airDate: 1569456000000,
@@ -2169,7 +2169,7 @@ module.exports = {
       },
       {
         title: 'Noel Gallagher Looks Back in Anger at Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 161,
         seasonEpisodeNumber: 3,
         airDate: 1570060800000,
@@ -2183,7 +2183,7 @@ module.exports = {
       {
         title:
           'Liza Koshy Meets Her Future Self While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 162,
         seasonEpisodeNumber: 4,
         airDate: 1570665600000,
@@ -2197,7 +2197,7 @@ module.exports = {
       {
         title:
           'Paul Rudd Does a Historic Dab While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 163,
         seasonEpisodeNumber: 5,
         airDate: 1571270400000,
@@ -2211,7 +2211,7 @@ module.exports = {
       {
         title:
           'Maisie Williams Shivers Uncontrollably While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 164,
         seasonEpisodeNumber: 6,
         airDate: 1571875200000,
@@ -2225,7 +2225,7 @@ module.exports = {
       {
         title:
           'Nick Offerman Gets the Job Done While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 165,
         seasonEpisodeNumber: 7,
         airDate: 1572480000000,
@@ -2238,7 +2238,7 @@ module.exports = {
       },
       {
         title: 'DaBaby Crushes Ice Cream While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 166,
         seasonEpisodeNumber: 8,
         airDate: 1573084800000,
@@ -2252,7 +2252,7 @@ module.exports = {
       {
         title:
           'Kristen Stewart Brings the Angels to Eat Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 167,
         seasonEpisodeNumber: 9,
         airDate: 1573689600000,
@@ -2265,7 +2265,7 @@ module.exports = {
       },
       {
         title: 'Chance the Rapper Battles Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 168,
         seasonEpisodeNumber: 10,
         airDate: 1574294400000,
@@ -2278,7 +2278,7 @@ module.exports = {
       },
       {
         title: 'Brad Leone Celebrates Thanksgiving With Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 169,
         seasonEpisodeNumber: 11,
         airDate: 1574899200000,
@@ -2292,7 +2292,7 @@ module.exports = {
       {
         title:
           'John Boyega Summons the Force While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 170,
         seasonEpisodeNumber: 12,
         airDate: 1575504000000,
@@ -2306,7 +2306,7 @@ module.exports = {
       {
         title:
           'Margot Robbie Pushes Her Limits While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 171,
         seasonEpisodeNumber: 1,
         airDate: 1580947200000,
@@ -2319,7 +2319,7 @@ module.exports = {
       },
       {
         title: 'Zoë Kravitz Gets Trippy While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 172,
         seasonEpisodeNumber: 2,
         airDate: 1581552000000,
@@ -2332,7 +2332,7 @@ module.exports = {
       },
       {
         title: 'Will Ferrell Deeply Regrets Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 173,
         seasonEpisodeNumber: 3,
         airDate: 1582156800000,
@@ -2346,7 +2346,7 @@ module.exports = {
       {
         title:
           'Halsey Experiences the Jersey Devil While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 174,
         seasonEpisodeNumber: 4,
         airDate: 1582761600000,
@@ -2360,7 +2360,7 @@ module.exports = {
       {
         title:
           'Pete Davidson Drips With Sweat While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 175,
         seasonEpisodeNumber: 5,
         airDate: 1583366400000,
@@ -2374,7 +2374,7 @@ module.exports = {
       {
         title:
           'David Dobrik Experiences Real Pain While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 176,
         seasonEpisodeNumber: 6,
         airDate: 1583971200000,
@@ -2388,7 +2388,7 @@ module.exports = {
       {
         title:
           'Big Sean Goes On a Spiritual Journey While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 177,
         seasonEpisodeNumber: 7,
         airDate: 1584576000000,
@@ -2401,7 +2401,7 @@ module.exports = {
       },
       {
         title: 'Zac Efron Ups the Ante While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 178,
         seasonEpisodeNumber: 8,
         airDate: 1585785600000,
@@ -2415,7 +2415,7 @@ module.exports = {
       {
         title:
           'Justin Timberlake Cries a River While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 179,
         seasonEpisodeNumber: 9,
         airDate: 1586390400000,
@@ -2429,7 +2429,7 @@ module.exports = {
       {
         title:
           'Tom Segura Keeps It High and Tight While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 180,
         seasonEpisodeNumber: 1,
         airDate: 1593043200000,
@@ -2443,7 +2443,7 @@ module.exports = {
       {
         title:
           'Brie Larson Takes On a New Form While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 181,
         seasonEpisodeNumber: 2,
         airDate: 1593648000000,
@@ -2457,7 +2457,7 @@ module.exports = {
       {
         title:
           'Eric Andre Enters a Fugue State While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 182,
         seasonEpisodeNumber: 3,
         airDate: 1594252800000,
@@ -2470,7 +2470,7 @@ module.exports = {
       },
       {
         title: 'Dan Levy Gets Panicky While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 183,
         seasonEpisodeNumber: 4,
         airDate: 1594857600000,
@@ -2483,7 +2483,7 @@ module.exports = {
       },
       {
         title: 'Dua Lipa Sweats From Her Eyes While Eating Spicy Wings',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 184,
         seasonEpisodeNumber: 5,
         airDate: 1595462400000,
@@ -2496,7 +2496,7 @@ module.exports = {
       },
       {
         title: 'T-Pain Tastes Gas While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 185,
         seasonEpisodeNumber: 6,
         airDate: 1596067200000,
@@ -2510,7 +2510,7 @@ module.exports = {
       {
         title:
           'Adam Richman Impersonates Noel Gallagher While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 186,
         seasonEpisodeNumber: 7,
         airDate: 1596672000000,
@@ -2524,7 +2524,7 @@ module.exports = {
       {
         title:
           'Action Bronson Shakes It Out While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 187,
         seasonEpisodeNumber: 8,
         airDate: 1597276800000,
@@ -2538,7 +2538,7 @@ module.exports = {
       {
         title:
           'Drew Barrymore Has a Hard Time Processing While Eating Hot Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 188,
         seasonEpisodeNumber: 9,
         airDate: 1597881600000,
@@ -2552,7 +2552,7 @@ module.exports = {
       {
         title:
           'Joseph Gordon-Levitt Gets Cocky While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 189,
         seasonEpisodeNumber: 10,
         airDate: 1598486400000,
@@ -2566,7 +2566,7 @@ module.exports = {
       {
         title:
           'Jessica Alba Applies Lip Gloss While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 190,
         seasonEpisodeNumber: 1,
         airDate: 1601510400000,
@@ -2579,7 +2579,7 @@ module.exports = {
       },
       {
         title: 'Ronda Rousey Splits Bones While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 191,
         seasonEpisodeNumber: 2,
         airDate: 1602115200000,
@@ -2593,7 +2593,7 @@ module.exports = {
       {
         title:
           'Naomi Campbell Almost Faints While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 192,
         seasonEpisodeNumber: 3,
         airDate: 1602720000000,
@@ -2607,7 +2607,7 @@ module.exports = {
       {
         title:
           'Matthew McConaughey Grunts it Out While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 193,
         seasonEpisodeNumber: 4,
         airDate: 1603324800000,
@@ -2620,7 +2620,7 @@ module.exports = {
       },
       {
         title: 'Sam Smith Screams in Pain While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 194,
         seasonEpisodeNumber: 5,
         airDate: 1603929600000,
@@ -2634,7 +2634,7 @@ module.exports = {
       {
         title:
           'Saweetie Almost Tap Tap Taps Out While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 195,
         seasonEpisodeNumber: 6,
         airDate: 1604534400000,
@@ -2648,7 +2648,7 @@ module.exports = {
       {
         title:
           'Thundercat Relives a Hot Sauce Nightmare While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 196,
         seasonEpisodeNumber: 7,
         airDate: 1605139200000,
@@ -2662,7 +2662,7 @@ module.exports = {
       {
         title:
           'The Undertaker Takes Care of Business While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 197,
         seasonEpisodeNumber: 8,
         airDate: 1605744000000,
@@ -2676,7 +2676,7 @@ module.exports = {
       {
         title:
           'Lil Nas X Celebrates Thanksgiving With the Biggest Last Dab Ever | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 198,
         seasonEpisodeNumber: 9,
         airDate: 1606348800000,
@@ -2690,7 +2690,7 @@ module.exports = {
       {
         title:
           'Daniel Radcliffe Catches a Head Rush While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 199,
         seasonEpisodeNumber: 10,
         airDate: 1606953600000,
@@ -2704,7 +2704,7 @@ module.exports = {
       {
         title:
           'Priyanka Chopra Jonas Explains the Essence of Hot Sauce While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 200,
         seasonEpisodeNumber: 1,
         airDate: 1611792000000,
@@ -2718,7 +2718,7 @@ module.exports = {
       {
         title:
           'Dustin Poirier Is Paid in Full While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 201,
         seasonEpisodeNumber: 2,
         airDate: 1612396800000,
@@ -2732,7 +2732,7 @@ module.exports = {
       {
         title:
           'Kevin James Forgets Who He Is While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 202,
         seasonEpisodeNumber: 3,
         airDate: 1613001600000,
@@ -2746,7 +2746,7 @@ module.exports = {
       {
         title:
           'Awkwafina Gets Hot and Cold While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 203,
         seasonEpisodeNumber: 4,
         airDate: 1613606400000,
@@ -2760,7 +2760,7 @@ module.exports = {
       {
         title:
           'Kenan Thompson Becomes a Card-Carrying Spiceman While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 204,
         seasonEpisodeNumber: 5,
         airDate: 1614211200000,
@@ -2774,7 +2774,7 @@ module.exports = {
       {
         title:
           'Anthony Mackie Quotes Shakespeare While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 205,
         seasonEpisodeNumber: 6,
         airDate: 1614816000000,
@@ -2788,7 +2788,7 @@ module.exports = {
       {
         title:
           "Paris Hilton Says 'That's Hot' While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 206,
         seasonEpisodeNumber: 7,
         airDate: 1615420800000,
@@ -2802,7 +2802,7 @@ module.exports = {
       {
         title:
           'Jennifer Garner Says “Golly” While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 207,
         seasonEpisodeNumber: 8,
         airDate: 1616025600000,
@@ -2815,7 +2815,7 @@ module.exports = {
       },
       {
         title: 'J Balvin Meets the Devil While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 208,
         seasonEpisodeNumber: 9,
         airDate: 1616630400000,
@@ -2829,7 +2829,7 @@ module.exports = {
       {
         title:
           "Jeffrey Dean Morgan Can't Feel His Face While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 209,
         seasonEpisodeNumber: 10,
         airDate: 1617235200000,
@@ -2843,7 +2843,7 @@ module.exports = {
       {
         title:
           'Russell Brand Serenades Superfan Brett Baker While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 210,
         seasonEpisodeNumber: 11,
         airDate: 1617840000000,
@@ -2856,7 +2856,7 @@ module.exports = {
       },
       {
         title: 'Steve-O Takes It Too Far While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 211,
         seasonEpisodeNumber: 12,
         airDate: 1618444800000,
@@ -2870,7 +2870,7 @@ module.exports = {
       {
         title:
           'Jack Harlow Returns to the Studio to Eat Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 212,
         seasonEpisodeNumber: 1,
         airDate: 1622073600000,
@@ -2883,7 +2883,7 @@ module.exports = {
       },
       {
         title: 'Kamaru Usman Goes to the Mat Against Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 213,
         seasonEpisodeNumber: 2,
         airDate: 1622678400000,
@@ -2896,7 +2896,7 @@ module.exports = {
       },
       {
         title: 'Quavo Is Stunned by Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 214,
         seasonEpisodeNumber: 3,
         airDate: 1623283200000,
@@ -2910,7 +2910,7 @@ module.exports = {
       {
         title:
           'Elizabeth Olsen Feels Brave While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 215,
         seasonEpisodeNumber: 4,
         airDate: 1623888000000,
@@ -2924,7 +2924,7 @@ module.exports = {
       {
         title:
           'Olivia Rodrigo Burns Her Lips While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 216,
         seasonEpisodeNumber: 5,
         airDate: 1624492800000,
@@ -2938,7 +2938,7 @@ module.exports = {
       {
         title:
           'Malcolm Gladwell Hits the Tipping Point While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 217,
         seasonEpisodeNumber: 6,
         airDate: 1625097600000,
@@ -2952,7 +2952,7 @@ module.exports = {
       {
         title:
           'Ed Sheeran Tries to Avoid Failure While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 218,
         seasonEpisodeNumber: 7,
         airDate: 1625702400000,
@@ -2966,7 +2966,7 @@ module.exports = {
       {
         title:
           'David Harbour Feels Out of Control While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 219,
         seasonEpisodeNumber: 8,
         airDate: 1626307200000,
@@ -2979,7 +2979,7 @@ module.exports = {
       },
       {
         title: 'Michael Che Gs Up While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 220,
         seasonEpisodeNumber: 9,
         airDate: 1626912000000,
@@ -2992,7 +2992,7 @@ module.exports = {
       },
       {
         title: 'Lorde Drops the Mic While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 221,
         seasonEpisodeNumber: 10,
         airDate: 1627516800000,
@@ -3006,7 +3006,7 @@ module.exports = {
       {
         title:
           'Matt Damon Sweats From His Scalp While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 222,
         seasonEpisodeNumber: 11,
         airDate: 1628121600000,
@@ -3020,7 +3020,7 @@ module.exports = {
       {
         title:
           'Elijah Wood Tastes the Lava of Mount Doom While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 223,
         seasonEpisodeNumber: 12,
         airDate: 1628726400000,
@@ -3033,7 +3033,7 @@ module.exports = {
       },
       {
         title: 'Jimmy Kimmel Feels Poisoned By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 224,
         seasonEpisodeNumber: 1,
         airDate: 1632355200000,
@@ -3046,7 +3046,7 @@ module.exports = {
       },
       {
         title: 'Derrick Lewis Is Not Okay While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 225,
         seasonEpisodeNumber: 2,
         airDate: 1632960000000,
@@ -3059,7 +3059,7 @@ module.exports = {
       },
       {
         title: 'Jon Bernthal Gets Punished By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 226,
         seasonEpisodeNumber: 3,
         airDate: 1633564800000,
@@ -3073,7 +3073,7 @@ module.exports = {
       {
         title:
           'Megan Thee Stallion Turns Into Hot Girl Meg While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 227,
         seasonEpisodeNumber: 4,
         airDate: 1634169600000,
@@ -3086,7 +3086,7 @@ module.exports = {
       },
       {
         title: 'CL Gets Extra Spicy While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 228,
         seasonEpisodeNumber: 5,
         airDate: 1634774400000,
@@ -3099,7 +3099,7 @@ module.exports = {
       },
       {
         title: 'Mila Kunis Hits the Ranch While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 229,
         seasonEpisodeNumber: 6,
         airDate: 1635379200000,
@@ -3113,7 +3113,7 @@ module.exports = {
       {
         title:
           'Salma Hayek Adopts Sean Evans While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 230,
         seasonEpisodeNumber: 7,
         airDate: 1635984000000,
@@ -3127,7 +3127,7 @@ module.exports = {
       {
         title:
           'Jeremy Renner Goes Blind in One Eye While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 231,
         seasonEpisodeNumber: 8,
         airDate: 1636588800000,
@@ -3141,7 +3141,7 @@ module.exports = {
       {
         title:
           'David Chang Sweats Like Crazy While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 232,
         seasonEpisodeNumber: 9,
         airDate: 1637193600000,
@@ -3155,7 +3155,7 @@ module.exports = {
       {
         title:
           'Coach Brad Underwood Gets Full Court Pressed By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 233,
         seasonEpisodeNumber: 10,
         airDate: 1637366400000,
@@ -3168,7 +3168,7 @@ module.exports = {
       },
       {
         title: 'Rob Lowe Ruins Thanksgiving By Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 234,
         seasonEpisodeNumber: 11,
         airDate: 1637798400000,
@@ -3181,7 +3181,7 @@ module.exports = {
       },
       {
         title: 'Simu Liu Chugs Boba While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 235,
         seasonEpisodeNumber: 12,
         airDate: 1638403200000,
@@ -3195,7 +3195,7 @@ module.exports = {
       {
         title:
           'Tom Holland Calls for a Doctor While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 236,
         seasonEpisodeNumber: 13,
         airDate: 1639008000000,
@@ -3209,7 +3209,7 @@ module.exports = {
       {
         title:
           'Seth Rogen Scorches His Tongue While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 237,
         seasonEpisodeNumber: 1,
         airDate: 1642636800000,
@@ -3223,7 +3223,7 @@ module.exports = {
       {
         title:
           'Tracee Ellis Ross Calls For Her Mommy While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 238,
         seasonEpisodeNumber: 2,
         airDate: 1643241600000,
@@ -3237,7 +3237,7 @@ module.exports = {
       {
         title:
           'Ed Helms Needs a Mouth Medic While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 239,
         seasonEpisodeNumber: 3,
         airDate: 1643846400000,
@@ -3251,7 +3251,7 @@ module.exports = {
       {
         title:
           'Sebastian Stan Learns About Himself While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 240,
         seasonEpisodeNumber: 4,
         airDate: 1644451200000,
@@ -3265,7 +3265,7 @@ module.exports = {
       {
         title:
           'Andrew Zimmern Has a Bucket List Moment While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 241,
         seasonEpisodeNumber: 5,
         airDate: 1645056000000,
@@ -3279,7 +3279,7 @@ module.exports = {
       {
         title:
           'Dave Grohl Makes a New Friend While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 242,
         seasonEpisodeNumber: 6,
         airDate: 1645660800000,
@@ -3293,7 +3293,7 @@ module.exports = {
       {
         title:
           'Colin Farrell Searches for Meaning in the Pain of Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 243,
         seasonEpisodeNumber: 7,
         airDate: 1646265600000,
@@ -3306,7 +3306,7 @@ module.exports = {
       },
       {
         title: 'Courteney Cox Becomes Friends With Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 244,
         seasonEpisodeNumber: 8,
         airDate: 1646870400000,
@@ -3320,7 +3320,7 @@ module.exports = {
       {
         title:
           'Jacob Elordi Feels Euphoric While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 245,
         seasonEpisodeNumber: 9,
         airDate: 1647475200000,
@@ -3333,7 +3333,7 @@ module.exports = {
       },
       {
         title: 'Pusha T Has Beef With Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 246,
         seasonEpisodeNumber: 10,
         airDate: 1648080000000,
@@ -3346,7 +3346,7 @@ module.exports = {
       },
       {
         title: 'Leslie Mann Gets Revenge While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 247,
         seasonEpisodeNumber: 11,
         airDate: 1648684800000,
@@ -3360,7 +3360,7 @@ module.exports = {
       {
         title:
           'Josh Brolin Licks the Palate of Absurdity While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 248,
         seasonEpisodeNumber: 12,
         airDate: 1649289600000,
@@ -3373,7 +3373,7 @@ module.exports = {
       },
       {
         title: 'Post Malone Has His Brain Hacked By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 249,
         seasonEpisodeNumber: 1,
         airDate: 1653523200000,
@@ -3387,7 +3387,7 @@ module.exports = {
       {
         title:
           'Millie Bobby Brown Needs a Milkshake While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 250,
         seasonEpisodeNumber: 2,
         airDate: 1654128000000,
@@ -3400,7 +3400,7 @@ module.exports = {
       },
       {
         title: 'Queen Latifah Sets It Off While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 251,
         seasonEpisodeNumber: 3,
         airDate: 1654732800000,
@@ -3414,7 +3414,7 @@ module.exports = {
       {
         title:
           'Kevin Bacon Needs Six Degrees of Separation From Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 252,
         seasonEpisodeNumber: 4,
         airDate: 1655337600000,
@@ -3428,7 +3428,7 @@ module.exports = {
       {
         title:
           'Khloé Kardashian Holds Back Tears While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 253,
         seasonEpisodeNumber: 5,
         airDate: 1655942400000,
@@ -3442,7 +3442,7 @@ module.exports = {
       {
         title:
           'Andrew Callaghan Goes For the Marrow While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 254,
         seasonEpisodeNumber: 6,
         airDate: 1656547200000,
@@ -3455,7 +3455,7 @@ module.exports = {
       },
       {
         title: 'Tessa Thompson Feels Alive While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 255,
         seasonEpisodeNumber: 7,
         airDate: 1657152000000,
@@ -3469,7 +3469,7 @@ module.exports = {
       {
         title:
           'Daniel Kaluuya Listens to His Ego While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 256,
         seasonEpisodeNumber: 8,
         airDate: 1657756800000,
@@ -3483,7 +3483,7 @@ module.exports = {
       {
         title:
           'Bear Grylls Battles For Survival Against Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 257,
         seasonEpisodeNumber: 9,
         airDate: 1658361600000,
@@ -3497,7 +3497,7 @@ module.exports = {
       {
         title:
           'Mark Rober Gives Up on Science While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 258,
         seasonEpisodeNumber: 10,
         airDate: 1658966400000,
@@ -3511,7 +3511,7 @@ module.exports = {
       {
         title:
           'Lizzo Earns Her Hot Sauce Crown While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 259,
         seasonEpisodeNumber: 11,
         airDate: 1659571200000,
@@ -3525,7 +3525,7 @@ module.exports = {
       {
         title:
           'Neil Patrick Harris Needs Magic to Escape Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 260,
         seasonEpisodeNumber: 12,
         airDate: 1660176000000,
@@ -3538,7 +3538,7 @@ module.exports = {
       },
       {
         title: 'David Blaine Does Magic While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 261,
         seasonEpisodeNumber: 1,
         airDate: 1664409600000,
@@ -3551,7 +3551,7 @@ module.exports = {
       },
       {
         title: 'Kid Cudi Goes to the Moon While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 262,
         seasonEpisodeNumber: 2,
         airDate: 1665014400000,
@@ -3565,7 +3565,7 @@ module.exports = {
       {
         title:
           'Viola Davis Gives a Master Class While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 263,
         seasonEpisodeNumber: 3,
         airDate: 1665619200000,
@@ -3579,7 +3579,7 @@ module.exports = {
       {
         title:
           'Cole Bennett Needs Lemonade While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 264,
         seasonEpisodeNumber: 4,
         airDate: 1666224000000,
@@ -3593,7 +3593,7 @@ module.exports = {
       {
         title:
           "Cate Blanchett Pretends No One's Watching While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 265,
         seasonEpisodeNumber: 5,
         airDate: 1666828800000,
@@ -3607,7 +3607,7 @@ module.exports = {
       {
         title:
           'Emma Chamberlain Has a Spiritual Awakening While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 266,
         seasonEpisodeNumber: 6,
         airDate: 1667433600000,
@@ -3621,7 +3621,7 @@ module.exports = {
       {
         title:
           'James Corden Experiences Mouth Karma While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 267,
         seasonEpisodeNumber: 7,
         airDate: 1668038400000,
@@ -3635,7 +3635,7 @@ module.exports = {
       {
         title:
           'Ramy Youssef Lives on a Prayer While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 268,
         seasonEpisodeNumber: 8,
         airDate: 1668643200000,
@@ -3649,7 +3649,7 @@ module.exports = {
       {
         title:
           'Israel Adesanya Gives Thanks While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 269,
         seasonEpisodeNumber: 9,
         airDate: 1669248000000,
@@ -3662,7 +3662,7 @@ module.exports = {
       },
       {
         title: 'Zoe Saldaña Gets Scorched By Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 270,
         seasonEpisodeNumber: 10,
         airDate: 1669852800000,
@@ -3675,7 +3675,7 @@ module.exports = {
       },
       {
         title: 'Kate Hudson Stays Positive While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 271,
         seasonEpisodeNumber: 11,
         airDate: 1670457600000,
@@ -3689,7 +3689,7 @@ module.exports = {
       {
         title:
           'Paul Dano Needs a Burp Cloth While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 272,
         seasonEpisodeNumber: 12,
         airDate: 1671062400000,
@@ -3703,7 +3703,7 @@ module.exports = {
       {
         title:
           'Anna Kendrick Gets the Giggles While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 273,
         seasonEpisodeNumber: 1,
         airDate: 1674691200000,
@@ -3717,7 +3717,7 @@ module.exports = {
       {
         title:
           'Bryan Cranston Fully Commits While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 274,
         seasonEpisodeNumber: 2,
         airDate: 1675296000000,
@@ -3730,7 +3730,7 @@ module.exports = {
       },
       {
         title: 'Lenny Kravitz Stays Cool While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 275,
         seasonEpisodeNumber: 3,
         airDate: 1675900800000,
@@ -3744,7 +3744,7 @@ module.exports = {
       {
         title:
           'Austin Butler Searches for Comfort While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 276,
         seasonEpisodeNumber: 4,
         airDate: 1676505600000,
@@ -3757,7 +3757,7 @@ module.exports = {
       },
       {
         title: 'LL Cool J Needs Some Milk While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 277,
         seasonEpisodeNumber: 5,
         airDate: 1677110400000,
@@ -3771,7 +3771,7 @@ module.exports = {
       {
         title:
           "Jenna Ortega Doesn't Flinch While Eating Spicy Wings | Hot Ones",
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 278,
         seasonEpisodeNumber: 6,
         airDate: 1677715200000,
@@ -3785,7 +3785,7 @@ module.exports = {
       {
         title:
           'Pedro Pascal Cries From His Head While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 279,
         seasonEpisodeNumber: 7,
         airDate: 1678320000000,
@@ -3799,7 +3799,7 @@ module.exports = {
       {
         title:
           'Niall Horan Gets the Shakes While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 280,
         seasonEpisodeNumber: 8,
         airDate: 1678924800000,
@@ -3813,7 +3813,7 @@ module.exports = {
       {
         title:
           'Bob Odenkirk Has a Fire in His Belly While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 281,
         seasonEpisodeNumber: 9,
         airDate: 1679529600000,
@@ -3827,7 +3827,7 @@ module.exports = {
       {
         title:
           'Florence Pugh Sweats From Her Eyebrows While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 282,
         seasonEpisodeNumber: 10,
         airDate: 1680134400000,
@@ -3840,7 +3840,7 @@ module.exports = {
       },
       {
         title: 'Kieran Culkin Fires Sean While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 283,
         seasonEpisodeNumber: 11,
         airDate: 1680739200000,
@@ -3854,7 +3854,7 @@ module.exports = {
       {
         title:
           'Jake Gyllenhaal Gets a Leg Cramp While Eating Spicy Wings | Hot Ones',
-        season: '646bafdba2cd4bbc1d0c437d',
+        seasonId: '646bafdba2cd4bbc1d0c437d',
         overallEpisodeNumber: 284,
         seasonEpisodeNumber: 12,
         airDate: 1681344000000,
