@@ -9,6 +9,7 @@ const db = require('../models');
 // GET /episodes - return all episodes
 router.get('/episodes', (req, res) => {
   db.Episode.find()
+    .sort({ overallEpisodeNumber: 'asc' })
     .then((episodes) => {
       res.json({ episodes });
     })
