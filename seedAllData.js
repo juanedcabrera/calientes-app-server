@@ -72,11 +72,12 @@ const populateDb = async () => {
   });
   data.episodes.map(async (episode, index) => {
     const newEpisode = await db.Episode.create(episode);
-    seasonNumber = checkSeasonOfEpisode(index + 1);
+    let seasonNumber = checkSeasonOfEpisode(index + 1);
     let [season] = await db.Season.find({ seasonNumber });
     season.episodes.push(newEpisode._id);
     // following line is particularly important because each episode is seeded with a dummy ObjectId on creation to avoid errors (it may eventually be preferable to instead change the schema so this field is not required at creation and then omit the dummy value).  if the season property is not correctly set during this function, episodes will have a value for season that does not actually point to anything in the seasons collection.
-    newEpisode.season = season._id;
+    newEpisode.seasonId = season._id;
+    newEpisode.seasonNumber = seasonNumber;
     await newEpisode.save();
     await season.save();
   });
@@ -93,9 +94,9 @@ const populateDb = async () => {
     await newGuest.save();
     console.log(newGuest);
   });
-  //   data.sauces.map(async (sauce) => {
-  //     await db.Sauce.create(sauce);
-  //   });
+  data.sauces.map(async (sauce) => {
+    await db.Sauce.create(sauce);
+  });
 };
 
 populateDb();
