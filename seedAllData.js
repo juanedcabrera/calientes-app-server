@@ -74,7 +74,8 @@ const populateDb = async () => {
     const newEpisode = await db.Episode.create(episode);
     let seasonNumber = checkSeasonOfEpisode(index + 1);
     let [season] = await db.Season.find({ seasonNumber });
-    season.episodes.push(newEpisode._id);
+    season.episodeIds.push(newEpisode._id);
+    season.episodeTitles.push(newEpisode.title);
     // following line is particularly important because each episode is seeded with a dummy ObjectId on creation to avoid errors (it may eventually be preferable to instead change the schema so this field is not required at creation and then omit the dummy value).  if the season property is not correctly set during this function, episodes will have a value for season that does not actually point to anything in the seasons collection.
     newEpisode.seasonId = season._id;
     newEpisode.seasonNumber = seasonNumber;

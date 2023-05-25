@@ -5,13 +5,14 @@ const mongoose = require('mongoose');
 const seasonSchema = new mongoose.Schema(
   {
     seasonNumber: { type: Number, required: true, unique: true },
-    episodes: [
+    episodeIds: [
       {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Episode',
         required: true,
       },
     ],
+    episodeTitles: [{ type: String, required: true }],
     likes: { type: Number, required: true },
     startDate: { type: Date, required: true },
     endDate: { type: Date, required: true },
