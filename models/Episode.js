@@ -29,10 +29,13 @@ const episodeSchema = new mongoose.Schema(
         required: true,
       },
     ],
+    wingsGuestCompleted: { type: Number, required: true },
     success: { type: Boolean, required: true },
     guestDab: { type: Boolean, required: true },
     likes: { type: Number, required: true },
     carefulCount: { type: Number, required: true },
+    image: { type: String, required: true },
+    thumbnailImage: { type: String, required: true },
   },
   {
     timestamps: true,
