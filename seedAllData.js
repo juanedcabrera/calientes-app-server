@@ -85,15 +85,16 @@ const populateDb = async () => {
   data.guests.map(async (guest) => {
     const newGuest = await db.Guest.create(guest);
     const episodeDates = newGuest.episodeDates;
-    episodeDates.forEach(async (episodeDate) => {
+    let totalWings = 0;
+    for (const episodeDate of episodeDates) {
       let [foundEpisode] = await db.Episode.find({ airDate: episodeDate });
+      totalWings += foundEpisode.wingsGuestCompleted;
       newGuest.episodes.push(foundEpisode._id);
+      newGuest.totalWingsEaten = totalWings;
       foundEpisode.guests.push(newGuest._id);
       await foundEpisode.save();
-    });
-    // something funky happening with the save here -- log shows that the episode IDs are getting added to guest's episodes array for a couple guests, but not all.  maybe map functions are happening simultaneously and need to be sequenced?  weirdly it seems like the guests' IDs are making it into the episode documents just fine though.  (can't save newGuest up in the forEach because then we get mongoose parallel save errors)
-    await newGuest.save();
-    console.log(newGuest);
+      await newGuest.save();
+    }
   });
   data.sauces.map(async (sauce) => {
     await db.Sauce.create(sauce);
