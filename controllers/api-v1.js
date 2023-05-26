@@ -181,6 +181,7 @@ router.post('/sauces', (req, res) => {
 // GET /seasons - return all seasons
 router.get('/seasons', (req, res) => {
   db.Season.find()
+    .sort({ seasonNumber: 'asc' })
     .then((seasons) => {
       res.json({ seasons });
     })
