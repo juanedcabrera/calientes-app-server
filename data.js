@@ -8070,7 +8070,7 @@ module.exports = {
         description:
           'Texas Pete Original Hot Sauce is a classic hot sauce that adds a tangy and slightly spicy kick to your favorite dishes. It has a balanced flavor with a hint of garlic and is great for adding some heat to wings, chili, and other foods.',
         scoville: 750,
-        img: 'img',
+        img: 'https://www.meijer.com/content/dam/meijer/product/0007/55/0000/00/0007550000001_0_A1C1_0600.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8080,7 +8080,7 @@ module.exports = {
         description:
           'Cholula Original Hot Sauce is a Mexican-style hot sauce known for its mild heat and rich flavor. It features a blend of arbol and piquin peppers along with a combination of spices, creating a sauce that is both tangy and slightly sweet.',
         scoville: 1000,
-        img: 'img',
+        img: 'https://www.peppersofkeywest.com/wp-content/uploads/2014/07/cho-orig.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8090,7 +8090,7 @@ module.exports = {
         description:
           'El Yucateco Caribbean Hot Sauce is a fiery sauce made with habanero peppers. It has a fruity and tropical flavor profile, with a significant amount of heat. This sauce adds a spicy kick to dishes like seafood, chicken, and tropical fruit salads.',
         scoville: 6000,
-        img: 'img',
+        img: 'https://www.foodservicedirect.com/media/catalog/product/1/0/10816493010153_vqxywbycyqsry8yy.jpg?width=1200&height=1200&quality=85&fit=bounds',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8100,7 +8100,7 @@ module.exports = {
         description:
           "Lottie's Traditional Barbados Yellow Hot Pepper Sauce is a Caribbean-style hot sauce made with Scotch bonnet peppers. It offers a flavorful blend of heat and tanginess, with a tropical twist. It pairs well with grilled meats, stews, and rice dishes.",
         scoville: 1000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/51KpnRh3kJL.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8110,7 +8110,7 @@ module.exports = {
         description:
           "Pain is Good Louisiana Style is a hot sauce inspired by the flavors of Louisiana. It combines cayenne peppers, vinegar, and spices to create a tangy and moderately spicy sauce. It's great for adding a Cajun kick to gumbo, jambalaya, and other Southern dishes.",
         scoville: 5000,
-        img: 'img',
+        img: 'https://www.peppersofkeywest.com/wp-content/uploads/2014/07/218.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8120,7 +8120,7 @@ module.exports = {
         description:
           "Pain 100% is a super hot sauce that lives up to its name. It is made with habanero peppers, pepper extract, and a blend of spices. This sauce delivers an intense and fiery heat that is not for the faint of heart. It's often used sparingly in chili, wings, and other dishes to add extreme heat.",
         scoville: 40600,
-        img: 'img',
+        img: 'https://www.peppersofkeywest.com/wp-content/uploads/2014/07/3256.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8130,7 +8130,7 @@ module.exports = {
         description:
           "Blair's Original Death Sauce with Chipotle is a smoky and flavorful hot sauce made with habanero peppers and chipotle pepper puree. It packs a punch of heat with a hint of sweetness and smokiness. This sauce can be used as a condiment or as an ingredient in marinades and dips.",
         scoville: 30000,
-        img: 'img',
+        img: 'https://www.peppersofkeywest.com/wp-content/uploads/2014/07/Blairs-original-875x563.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8140,7 +8140,7 @@ module.exports = {
         description:
           "Dave's Gourmet Temporary Insanity is a hot sauce that offers a balance between heat and flavor. It features a blend of chile peppers, garlic, and spices, providing a bold and spicy taste. This sauce adds a kick to dishes like tacos, burgers, and grilled meats.",
         scoville: 57000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0400/0577/products/D-Temp-Insanity.jpeg?v=1399332752',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8150,7 +8150,7 @@ module.exports = {
         description:
           "Dave's Gourmet Insanity Hot Sauce is known for its extreme heat level. It is made with a blend of habanero peppers, hot pepper extract, and spices. This sauce is incredibly hot and should be used sparingly. It's often used in small amounts to add intense heat to dishes.",
         scoville: 180000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0552/3773/8585/products/DAIN.png?v=1648582890',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8160,7 +8160,7 @@ module.exports = {
         description:
           "Mad Dog 357 is a hot sauce that is not for the faint-hearted. It is made with a blend of hot peppers, including habaneros and extract of ghost peppers, creating a sauce with a scorching level of heat. It's often used as a collector's item or for extreme heat challenges.",
         scoville: 357000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0363/5131/1916/products/mad-dog-357-pure-gold-hot-sauce-peach-mango-edition-hot-sauce-maddog357com-420394_grande.jpg?v=1609525861',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8170,7 +8170,7 @@ module.exports = {
         description:
           "Sriracha is a popular hot sauce originating from Thailand. It is made from chili peppers, vinegar, garlic, sugar, and salt. Sriracha has a tangy and slightly sweet flavor profile with a moderate level of heat. It's commonly used as a condiment for adding spice to various dishes.",
         scoville: 2200,
-        img: 'img',
+        img: 'https://cdn11.bigcommerce.com/s-q1qpuo8ch5/images/stencil/original/products/1092/613/Sriracha__29028.1587046421.jpg?c=2',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8180,7 +8180,7 @@ module.exports = {
         description:
           'Tapatío is a Mexican hot sauce that is known for its versatility and balanced flavor. It features a blend of red chili peppers, spices, and a hint of garlic. Tapatío has a medium level of heat and adds a zesty kick to a variety of dishes, including tacos, burritos, and soups.',
         scoville: 3000,
-        img: 'img',
+        img: 'https://www.hot-chili-sauce.com/217-large_default/tapatio-hot-sauce.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8190,7 +8190,7 @@ module.exports = {
         description:
           'Hot Ones Fiery Chipotle is a hot sauce specifically crafted for the Hot Ones YouTube series. It combines smoky chipotle peppers, habanero peppers, and spices to create a well-rounded flavor with a medium level of heat. This sauce is great for adding a smoky kick to various dishes.',
         scoville: 7000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0188/0032/products/hot-ones-fiery-chipotle-sauce-pepper-ghost-habanero-heat-level-05-chilly-chiles-liquid-flavor-434.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8200,7 +8200,7 @@ module.exports = {
         description:
           'High River Rogue is a hot sauce that blends red serrano and scorpion peppers with garlic, herbs, and spices. It offers a combination of heat and flavor, with a slightly sweet and tangy profile. This sauce is versatile and can be used as a condiment or an ingredient in marinades and dips.',
         scoville: 9000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0086/6107/3986/products/96_400x.jpg?v=1570379446',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8210,7 +8210,7 @@ module.exports = {
         description:
           "Blair's Mega Death Sauce is a super-hot sauce that combines habanero peppers, cayenne peppers, pepper extract, and spices. It is famous for its blistering heat and is often used sparingly to add intense spiciness to dishes. This sauce is not for the faint of heart.",
         scoville: 550000,
-        img: 'img',
+        img: 'https://www.hot-chili-sauce.com/116-large_default/blairs-mega-death.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8220,7 +8220,7 @@ module.exports = {
         description:
           'Tabasco is a well-known hot sauce brand that has been around for over a century. It is made from tabasco peppers, vinegar, and salt. Tabasco sauce has a sharp and tangy flavor with a medium level of heat. It is often used to add a spicy kick to dishes like eggs, pizza, and Bloody Mary cocktails.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://cdn11.bigcommerce.com/s-q1qpuo8ch5/images/stencil/2048x2048/products/1215/835/image__53125.1623422597.png?c=2',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8230,7 +8230,7 @@ module.exports = {
         description:
           'Queen Majesty Red Habanero and Black Coffee is a unique hot sauce that combines red habanero peppers, black coffee, vinegar, and spices. It offers a complex flavor profile with a balance of heat, sweetness, and a hint of coffee. This sauce is great for adding depth to dishes like barbecue, roasted vegetables, and breakfast foods.',
         scoville: 25000,
-        img: 'img',
+        img: 'https://hotsaucemall.com/wp-content/uploads/2022/07/HH528.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8240,7 +8240,7 @@ module.exports = {
         description:
           'Bravado Spice Company Ghost Pepper and Blueberry is a hot sauce that brings together the heat of ghost peppers with the sweetness of blueberries. It features a fruity and spicy flavor combination that works well with grilled meats, salads, and cheese platters.',
         scoville: 35000,
-        img: 'img',
+        img: 'https://hotsaucemall.com/wp-content/uploads/2022/04/HH327.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8250,7 +8250,7 @@ module.exports = {
         description:
           'Torchbearer Sauces Zombie Apocalypse Sauce is a hot sauce that combines habanero, ghost, and reaper peppers with a blend of vegetables, garlic, and spices. It offers a fiery heat with a flavorful kick. This sauce is perfect for those who crave intense spiciness and pairs well with grilled meats, pizza, and tacos.',
         scoville: 28000,
-        img: 'img',
+        img: 'https://www.torchbearersauces.com/wp-content/uploads/2018/07/son-of-zombie-product-image.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8260,7 +8260,7 @@ module.exports = {
         description:
           "Da' Bomb Beyond Insanity is an extremely hot sauce that features habanero peppers, chipotle puree, and pepper extract. It is known for its intense heat, making it one of the hottest sauces available. Use with caution as it is exceptionally spicy and should be used sparingly.",
         scoville: 135600,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/91DHmWPjQES.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8270,7 +8270,7 @@ module.exports = {
         description:
           'Valentina Black Label is a Mexican hot sauce that offers a balanced blend of chili peppers, vinegar, and spices. It has a medium heat level and a tangy flavor with a hint of garlic. Valentina Black Label is versatile and complements a wide range of dishes, including tacos, eggs, and soups.',
         scoville: 900,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/1072/5570/products/VALENTINA12_BLACK_LABEL_12.5OZ_grande.png?v=1630041674',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8280,7 +8280,7 @@ module.exports = {
         description:
           "Crystal hot sauce is a Louisiana-style hot sauce that has been popular for over 90 years. It is made with aged cayenne peppers, vinegar, and spices. Crystal hot sauce has a tangy flavor with a moderate level of heat. It is commonly used in Southern cuisine, including gumbo, fried chicken, and po' boys.",
         scoville: 800,
-        img: 'img',
+        img: 'https://i5.peapod.com/c/2L/2LT2Y.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8290,7 +8290,7 @@ module.exports = {
         description:
           'Secret Aardvark is a unique hot sauce that combines tomatoes, vinegar, habanero peppers, and spices. It has a tangy and slightly sweet flavor profile with a mild to medium level of heat. Secret Aardvark is versatile and can be used as a condiment, marinade, or ingredient in sauces and dips.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/460749635593.jpg?v=1628213474&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8300,7 +8300,7 @@ module.exports = {
         description:
           'Queen Majesty Scotch Bonnet and Ginger is a hot sauce that features a blend of Scotch bonnet peppers, ginger, and lime juice. It offers a bright and tropical flavor with a medium level of heat. This sauce is great for adding a Caribbean twist to dishes like jerk chicken, seafood, and grilled vegetables.',
         scoville: 15000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/ScotchBonnetGinger_600x.JPG?v=1527138033',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8310,7 +8310,7 @@ module.exports = {
         description:
           'Dirty Dicks is a hot pepper sauce with a unique flavor profile. It combines habanero peppers with tropical fruits like mango, pineapple, and bananas, along with spices and vinegar. This sauce offers a balance of heat, sweetness, and tanginess. It works well as a glaze for meats, a dipping sauce, or a condiment for sandwiches.',
         scoville: 21000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/368548413449.jpg?v=1628203418&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8320,7 +8320,7 @@ module.exports = {
         description:
           'Zombie Apocalypse Ghost Chili Sauce is a hot sauce that features ghost peppers, habanero peppers, and a blend of spices. It delivers a fiery heat with a bold flavor. This sauce is not for the faint of heart and adds intense spiciness to dishes like wings, chili, and stews.',
         scoville: 30000,
-        img: 'img',
+        img: 'https://www.hot-chili-sauce.com/1896-large_default/zombie-apocalypse-jolokia-torchbearer.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8330,7 +8330,7 @@ module.exports = {
         description:
           "Hot Ones The Last Dab Reaper Editions is a remix of the spiciest sauce on Hot Ones, The Last Dab Carolina Reaper Edition swaps the Pepper X from the original with Smokin' Ed Currie's famous Carolina Reaper. The rest of the recipe is unchanged and still features the flavors of the Caribbean Islands but now paired with the sweet, acerbic pepper taste of the Reaper, and that immediate mouth burning heat! If the Pepper X version is like dancing with the devil, this one is like making out with a flame thrower.",
         scoville: 2000000,
-        img: 'img',
+        img: 'https://heatonist.com/cdn/shop/products/reaperdab1_0c0eb937-a760-457e-9017-ea891db5ce03.jpg?v=1628209123&width=626',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8340,7 +8340,7 @@ module.exports = {
         description:
           'The Last Dab is a hot sauce created for the Hot Ones YouTube series. Its heat level varies depending on the version, but it typically features a combination of super hot peppers like Carolina Reaper or Pepper X. This sauce is known for its extreme heat and is recommended for experienced chili-heads.',
         scoville: 2000000,
-        img: 'img',
+        img: 'https://i.pinimg.com/564x/b2/a3/61/b2a3618c31377bbdb2a3a210615a97e2.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8350,7 +8350,7 @@ module.exports = {
         description:
           'Humble House Ancho & Morita is a hot sauce that combines the smoky flavors of ancho and morita chili peppers with a blend of spices, garlic, and vinegar. It offers a medium level of heat with a rich and savory taste. This sauce complements a variety of dishes, including grilled meats, tacos, and roasted vegetables.',
         scoville: 3000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/394375069705.jpg?v=1628209506&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8360,7 +8360,7 @@ module.exports = {
         description:
           'Original Louisiana Hot Sauce is a classic hot sauce with a rich history. It is made with aged cayenne peppers, vinegar, and salt. This sauce offers a tangy and moderately spicy flavor that is perfect for adding a Louisiana kick to dishes like gumbo, jambalaya, and seafood.',
         scoville: 450,
-        img: 'img',
+        img: 'https://louisianahotsauce.com/wp-content/uploads/2021/05/product_original-6oz_750x750.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8370,7 +8370,7 @@ module.exports = {
         description:
           'Small Axe Peppers The Bronx Greenmarket Hot Sauce is a unique sauce made from peppers sourced directly from local farmers in the Bronx, New York. It features a variety of hot peppers, including jalapenos, serranos, and habaneros. This sauce offers a vibrant, fresh, and flavorful heat that supports community agriculture.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://smallaxepeppers.com/wp-content/uploads/2019/07/2019-SmAxPep-The-Bronx-Greenmarket-1.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8380,7 +8380,7 @@ module.exports = {
         description:
           'Adoboloco Hawaiian Hot Sauce Hamajang Kiawe Smoked Ghost Pepper is a hot sauce that combines ghost peppers, smoked kiawe wood, and Hawaiian sea salt. It offers a smoky, savory flavor with a high level of heat. This sauce adds a fiery kick to grilled meats, stir-fries, and other dishes.',
         scoville: 3500,
-        img: 'img',
+        img: 'https://adoboloco.com/wp-content/uploads/2020/09/Hamajang-1up-front.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8390,7 +8390,7 @@ module.exports = {
         description:
           'Karma Sauce Extreme Karma is a hot sauce that blends super hot peppers, including Carolina Reaper and Trinidad Scorpion, with a mix of spices and vinegar. It delivers an intense and fiery heat that chili enthusiasts seek. Use sparingly to add extreme spiciness to your favorite recipes.',
         scoville: 20000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0345/3865/1693/products/KarmaSauceExtremeKarma_1000x.png?v=1613961141',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8400,7 +8400,7 @@ module.exports = {
         description:
           "Dawson's Original Hot Sauce is a flavorful hot sauce made with a variety of chili peppers, including jalapenos and habaneros. It features a blend of herbs, spices, and a touch of sweetness. This sauce offers a balanced heat level and enhances the flavor of dishes like tacos, burgers, and eggs.",
         scoville: 1500,
-        img: 'img',
+        img: 'https://i.pinimg.com/736x/9c/43/37/9c43376f09027bcce9d5efcafbaf2e64.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8410,7 +8410,7 @@ module.exports = {
         description:
           "Mad Dog 357 25th Anniversary Edition is a special edition hot sauce celebrating the brand's milestone. It is an ultra-hot sauce made with a blend of chili peppers, including Carolina Reaper and Scorpion peppers. This sauce provides an intense heat experience that is only recommended for experienced chili enthusiasts.",
         scoville: 1000000,
-        img: 'img',
+        img: 'https://hotsaucemall.com/wp-content/uploads/2022/07/HH446-1.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8420,7 +8420,7 @@ module.exports = {
         description:
           'Howler Monkey Original is a hot sauce that combines habanero peppers, garlic, onions, and spices. It offers a bold and zesty flavor with a medium level of heat. This sauce is versatile and can be used as a condiment or ingredient in various recipes, adding a kick to dishes like tacos, sandwiches, and marinades.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0345/3865/1693/products/HowlerMonkeyOriginal_720x.jpg?v=1613960193',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8440,7 +8440,7 @@ module.exports = {
         description:
           "Pirate's Lantern Pepper Sauce is a Caribbean-style hot sauce made with Scotch bonnet peppers, vinegar, and spices. It offers a vibrant heat with a tropical flair. This sauce is commonly used in Caribbean cuisine and pairs well with jerk chicken, rice dishes, and seafood.",
         scoville: 25000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0490/7640/4385/products/hot-sauce-pirate-s-lantern-pepper-sauce-1_384x384.jpg?v=1626867670',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8450,7 +8450,7 @@ module.exports = {
         description:
           'Son of Zombie is a hot sauce from Torchbearer Sauces, which is a milder version of their extremely hot Zombie Apocalypse Sauce. It features a blend of habanero and ghost peppers, along with other flavorful ingredients. This sauce offers a balance of heat and flavor, making it suitable for those who enjoy spicy but not overpowering sauces.',
         scoville: 35000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/torchbearer-son-of-zombie-wing-sauce-hot-sauces-llc-chilly-chiles-largest-selection-in-canada-condiment-ingredient-beer-bottle_345_grande_13e5f7ea-3986-4d68-ab88-081fefb55be8.jpg?v=1579498038',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8460,7 +8460,7 @@ module.exports = {
         description:
           'Hot Ones Los Calientes is a hot sauce created for the Hot Ones YouTube series. It is a collaboration between Hot Ones and Humble House, and it features a blend of jalapeno, serrano, and habanero peppers, along with tangy ingredients like pineapple and lime. Los Calientes offers a medium level of heat with a zesty and tropical flavor profile.',
         scoville: 36000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/51OVY0NeSBL.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8470,7 +8470,7 @@ module.exports = {
         description:
           'Bravado Spice Company Black Garlic Carolina Reaper Sauce is a hot sauce that combines the intense heat of Carolina Reaper peppers with the rich and savory flavor of black garlic. It offers a complex and bold taste, along with a high level of heat. This sauce is for those who crave a powerful combination of spice and umami.',
         scoville: 71000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/0-2_1b4bf7c8-5eff-495c-a3f6-ede56c2baa82.jpg?v=1579497661',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8480,7 +8480,7 @@ module.exports = {
         description:
           "Bunsters Black Label is a hot sauce that packs a punch. It features a blend of super-hot peppers, including habanero, scorpion, and ghost peppers. This sauce delivers an intense heat along with a bold and tangy flavor. It's perfect for those who enjoy extreme spiciness and want to add a fiery kick to their dishes.",
         scoville: 49000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/S/aplus-media/sc/db2adc69-53d2-429e-9e8b-705ed3948294.__CR0,0,800,600_PT0_SX800_V1___.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8490,7 +8490,7 @@ module.exports = {
         description:
           'Hell Fire Hot Sauce Fiery Fool is an exceptionally hot sauce that is not for the faint of heart. It is made with a blend of super-hot peppers, including Carolina Reaper, along with garlic and spices. This sauce offers an extreme level of heat and is only recommended for the most adventurous and experienced chili enthusiasts.',
         scoville: 69000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0615/8457/2579/products/FieryFoolFront_1024x1024.jpg?v=1659479849',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8500,7 +8500,7 @@ module.exports = {
         description:
           'Hot Ones The Last Dab Reduxx is an updated version of the infamous Last Dab hot sauce. It features a blend of hot peppers, including the Carolina Reaper, with a touch of mustard and spices. This sauce delivers a potent heat that builds up gradually. It is a favorite among fans of the Hot Ones series.',
         scoville: 2000000,
-        img: 'img',
+        img: 'https://fartleyfarms.com/wp-content/uploads/2019/04/last-dab-bottle.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8510,7 +8510,7 @@ module.exports = {
         description:
           "Hot Ones The Classic is a hot sauce created for the Hot Ones series. It is a versatile and well-rounded sauce that offers a blend of chili peppers, vinegar, and spices. The Classic has a medium heat level and a tangy flavor profile. It's suitable for adding a kick to a wide range of dishes.",
         scoville: 2000,
-        img: 'img',
+        img: 'https://www.heatsupply.nl/wp-content/uploads/2017/12/Hot-Ones-The-Classic-hot-sauce.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8520,7 +8520,7 @@ module.exports = {
         description:
           'Humble House Guajillo & Red Jalapeño is a hot sauce that combines the smoky and mildly spicy guajillo peppers with the bright and zesty flavor of red jalapeños. It offers a medium heat level with a rich and savory taste. This sauce pairs well with Mexican cuisine, grilled meats, and tacos.',
         scoville: 1500,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/414WsEmwxWL._AC_UF894,1000_QL80_.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8530,7 +8530,7 @@ module.exports = {
         description:
           'Butterfly Bakery of Vermont Maple Wood Smoked Onion is a unique hot sauce that features the sweetness of maple syrup, the smokiness of maple wood, and the savory flavor of onions. It offers a mild to medium heat with a distinct smoky and slightly sweet taste. This sauce is a great addition to barbecue, roasted vegetables, and sandwiches.',
         scoville: 2500,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/MapleWoodSmokedOnion.JPG?v=1540187680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8540,7 +8540,7 @@ module.exports = {
         description:
           'Small Axe Peppers Habanero Mango is a hot sauce that combines the fruity and tropical flavor of mangoes with the heat of habanero peppers. It offers a balance of sweetness and spiciness, creating a vibrant and flavorful sauce. This sauce is perfect for adding a tropical kick to dishes like seafood, grilled chicken, and salads.',
         scoville: 7000,
-        img: 'img',
+        img: 'https://smallaxepeppers.com/wp-content/uploads/2021/02/Los-Ang-Habenero-Mango-Front.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8550,7 +8550,7 @@ module.exports = {
         description:
           'Clark and Hopkins Assam is a hot sauce inspired by the flavors of the Assam region in India. It features a blend of ghost peppers, aromatic spices, and tamarind. This sauce offers a complex and bold flavor with a significant level of heat. It pairs well with Indian cuisine, curries, and rice dishes.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/4734298259554.jpg?v=1628201857&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8560,7 +8560,7 @@ module.exports = {
         description:
           "Culley's Fire Water is a hot sauce that brings the heat with a blend of super-hot peppers, including habanero, ghost, and scorpion peppers. It delivers an intense and fiery flavor that chili lovers will enjoy. This sauce is for those who crave extreme spiciness and want to add a serious kick to their meals.",
         scoville: 25000,
-        img: 'img',
+        img: 'https://hotsaucemall.com/wp-content/uploads/2022/07/HH501.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8570,7 +8570,7 @@ module.exports = {
         description:
           'Burns & McCoy Exhorresco is a hot sauce that features a potent blend of peppers, including Carolina Reaper and Trinidad Scorpion, with a touch of garlic and spices. It offers an intense heat level that builds up gradually. This sauce is not for the faint of heart and is best used sparingly to add a powerful kick to your favorite recipes.',
         scoville: 8500,
-        img: 'img',
+        img: 'https://hotsaucefever.com/images/sauces/503/burns-and-mccoy-exhorresco-7-pot-primo.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8580,7 +8580,7 @@ module.exports = {
         description:
           'Angry Goat Hippy Dippy Green is a unique hot sauce that combines the flavors of tomatillos, jalapeños, and cilantro. It offers a tangy and slightly spicy taste with a hint of freshness. This sauce is versatile and can be used as a condiment or as a zesty addition to Mexican dishes, sandwiches, and salads.',
         scoville: 8000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/8190561419362.jpg?v=1628200144&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8590,7 +8590,7 @@ module.exports = {
         description:
           "Paddy O's Potion is a hot sauce that brings the heat with a blend of habanero and cayenne peppers, along with spices and vinegar. It offers a medium heat level with a tangy and robust flavor. This sauce is perfect for adding a kick to soups, stews, and marinades.",
         scoville: 30000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0453/9308/4583/products/1047343890441_1424x.jpg?v=1597142452',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8600,7 +8600,7 @@ module.exports = {
         description:
           'High River Sauces Cheeba Gold is a hot sauce with a Caribbean-inspired flavor. It features a blend of Scotch bonnet peppers, tropical fruits, and spices. It offers a balance of heat and sweetness, creating a unique and delicious taste. This sauce pairs well with grilled seafood, jerk chicken, and rice dishes.',
         scoville: 49000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/61bxrtem08L.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8610,7 +8610,7 @@ module.exports = {
         description:
           'Adoboloco Kolohe Kid is a hot sauce made with Hawaiian chili peppers, apple cider vinegar, and a touch of garlic. It has a medium heat level with a tangy and slightly fruity flavor. This sauce is a great addition to Asian-inspired dishes, poke bowls, and grilled meats.',
         scoville: 15000,
-        img: 'img',
+        img: 'https://adoboloco.com/wp-content/uploads/2019/09/Kolo-1up-front.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8620,7 +8620,7 @@ module.exports = {
         description:
           'Torchbearer Garlic Reaper is a hot sauce that combines the heat of Carolina Reaper peppers with the bold flavor of garlic. It offers a strong and robust taste with a high level of heat. This sauce is perfect for garlic lovers who also enjoy intense spiciness. Use sparingly to add a fiery kick to pasta, pizza, and marinades.',
         scoville: 116000,
-        img: 'img',
+        img: 'https://hotsaucemall.com/wp-content/uploads/2022/07/HH496.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8630,7 +8630,7 @@ module.exports = {
         description:
           'Hellfire Fear This is a hot sauce that packs a serious punch. It combines a blend of super-hot peppers, including Carolina Reaper and Trinidad Scorpion, with a mix of spices and garlic. This sauce offers an intense and fiery heat that is not for the faint-hearted. It is recommended to use with caution and in small amounts.',
         scoville: 669000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0188/0032/products/hellfire-fear-this-hot-sauce-carolina-reaper-ghost-pepper-heat-level-09-ones-chilly-chiles-sauces-ingredient-distilled-beverage-habanero-chili-barbecue-739.jpgimg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8640,7 +8640,7 @@ module.exports = {
         description:
           'Sauce Bae Skinny Habanero is a hot sauce that combines the bold flavor of habanero peppers with a touch of sweetness. It offers a medium heat level with a tangy and zesty taste. This sauce is perfect for those who enjoy a flavorful kick and want to enhance their dishes with a bit of heat.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/71VCGMsoc3L.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8650,7 +8650,7 @@ module.exports = {
         description:
           "Shaquanda's Hot Pepper is a hot sauce with a unique flavor profile. It features a blend of hot peppers, vinegar, and spices. This sauce offers a balance of heat and tanginess, with a hint of sweetness. It is versatile and can be used to spice up a variety of dishes, from tacos to stir-fries.",
         scoville: 6000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0662/4159/products/HotPepperSauce_01_1024x1024.jpg?v=1592686299',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8660,7 +8660,7 @@ module.exports = {
         description:
           'Lucky Dog Year of The Dog Thai Chile Pineapple is a hot sauce that combines the sweetness of pineapple with the heat of Thai chile peppers. It offers a medium heat level with a tropical and tangy flavor. This sauce is great for adding a sweet and spicy kick to Asian-inspired dishes, grilled meats, and salads.',
         scoville: 30000,
-        img: 'img',
+        img: 'https://www.olbrygging.no/Media/Cache/Images/4/3/WEB_Image_Year_of_the_Dog_Thai_Chile_Pineapple_yearofthedog_lres2103230400_plid_41383.jpeg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8670,7 +8670,7 @@ module.exports = {
         description:
           'Hell Fire Detroit Habanero is a hot sauce that features the bold flavor of habanero peppers. It offers a medium heat level with a robust and slightly smoky taste. This sauce is versatile and can be used as a condiment or ingredient in various recipes, adding a kick to burgers, sandwiches, and more.',
         scoville: 100000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/hellfiredetriothabanero_600x.jpg?v=1575701415',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8680,7 +8680,7 @@ module.exports = {
         description:
           'Wiltshire Chilli Farm Trinidad Scorpion is a hot sauce made with Trinidad Scorpion peppers, known for their intense heat. It delivers a powerful kick with a fruity and fiery flavor. This sauce is for those who seek extreme spiciness and want to add a serious punch to their meals.',
         scoville: 1463700,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0490/7640/4385/products/hot-sauce-wiltshire-chilli-farm-trinidad-scorpion-1_large.jpg?v=1626867773',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8690,7 +8690,7 @@ module.exports = {
         description:
           'Puckerbutt Chocolate Plague is a hot sauce made with Chocolate Bhutlah peppers, which are a variety of the infamous Carolina Reaper. It offers a combination of intense heat and a rich, smoky flavor with hints of chocolate. This sauce is for chili enthusiasts who crave both spiciness and unique taste experiences.',
         scoville: 700000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/bhutlah.jpg?v=1579498007',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8700,7 +8700,7 @@ module.exports = {
         description:
           'Small Axe Peppers The Chicago Red Hot Jalapeño Hot Sauce is a medium-heat hot sauce made with red jalapeño peppers. It offers a balanced heat level with a tangy and slightly sweet flavor. This sauce is inspired by Chicago-style hot dogs and is a great addition to sandwiches, sausages, and other classic dishes.',
         scoville: 1000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0603/4876/0288/products/smallaxe_chicagored.jpg?v=1639475896',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8710,7 +8710,7 @@ module.exports = {
         description:
           'Heartbeat Hot Sauce Pineapple Habanero is a hot sauce that combines the sweetness of pineapple with the heat of habanero peppers. It offers a balance of fruitiness and spiciness, creating a unique and vibrant taste. This sauce is perfect for adding a tropical kick to dishes like grilled chicken, tacos, and seafood.',
         scoville: 12000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0086/6107/3986/products/Heartbeat-PineappleHabaneroHotSauce_1200x1200.jpg?v=1590268374',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8720,7 +8720,7 @@ module.exports = {
         description:
           'Torchbearer Headless Horseradish is a hot sauce that features the bold and tangy flavor of horseradish. It offers a medium heat level with a sharp and pungent taste. This sauce is great for adding a kick to roast beef, sandwiches, and Bloody Mary cocktails.',
         scoville: 4000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/headless.jpg?v=1633453462',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8730,7 +8730,7 @@ module.exports = {
         description:
           'Adoboloco Fiya!Fiya! is a hot sauce that features a blend of Hawaiian chili peppers, vinegar, and spices. It offers a medium heat level with a tangy and slightly smoky flavor. This sauce adds a kick to a variety of dishes and is particularly well-suited for spicy Asian-inspired recipes and grilled meats.',
         scoville: 6000,
-        img: 'img',
+        img: 'https://www.chilisauser.no/wp-content/uploads/2021/11/FiyaFiya_LRes.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8740,7 +8740,7 @@ module.exports = {
         description:
           'Bravado Spice Company Aka Miso Ghost Reaper is a hot sauce that combines the intense heat of Carolina Reaper peppers with the umami flavors of miso. It offers a complex and savory taste with a high level of heat. This sauce is perfect for those who enjoy bold and spicy flavors in their dishes.',
         scoville: 70000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/akamisowhite.jpg?v=1579230121',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8750,7 +8750,7 @@ module.exports = {
         description:
           'Karma Sauce Burn After Eating is a hot sauce that brings the heat with a blend of super-hot peppers, including ghost peppers and habaneros. It delivers an intense and fiery flavor that is not for the faint-hearted. This sauce is for those who crave extreme spiciness and want to add a serious kick to their meals.',
         scoville: 35000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/613lOg6OSQL._AC_UF894,1000_QL80_.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8760,7 +8760,7 @@ module.exports = {
         description:
           'Hot Ones The Last Dab XXX is an extra hot version of the infamous Last Dab hot sauce. It features a blend of hot peppers, including Carolina Reaper, with a touch of spices and vinegar. This sauce delivers an intense and lingering heat that chili enthusiasts seek. It is recommended for experienced spice lovers.',
         scoville: 2000000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/51ZRPZp3FDL._AC_UF894,1000_QL80_.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8770,7 +8770,7 @@ module.exports = {
         description:
           'Cantina Royal Tamaulipeka is a hot sauce inspired by Mexican flavors. It combines Tamaulipeka peppers, spices, and vinegar to create a bold and flavorful sauce. It offers a medium heat level with a rich and tangy taste. This sauce is perfect for adding a kick to Mexican dishes, tacos, and grilled meats.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/1800/5281/products/Tamaulipeka-front_720x@2x.jpg?v=1643764311',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8780,7 +8780,7 @@ module.exports = {
         description:
           'Fiji Fire Native Bongo Chilli Hot Sauce is a hot sauce that features Bongo chili peppers, which are native to Fiji. It offers a medium heat level with a fruity and spicy flavor. This sauce adds a touch of tropical heat to dishes like seafood, curries, and stir-fries.',
         scoville: 100000,
-        img: 'img',
+        img: 'https://www.hot-chili-sauce.com/1306-large_default/sauce-fiji-fire.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8790,7 +8790,7 @@ module.exports = {
         description:
           'Double Take Salsa Co. Scotch Bonnet Mustard is a unique hot sauce that combines the tangy taste of mustard with the heat of Scotch bonnet peppers. It offers a balance of spiciness and tanginess, creating a versatile sauce. This sauce works well as a condiment for sandwiches, sausages, and burgers.',
         scoville: 6000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2597/0754/products/ScotchBonnetMustard-Front_grande.jpg?v=1624387034',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8800,7 +8800,7 @@ module.exports = {
         description:
           'Hot Ones Los Calientes Rojo is an elevated version of the popular Los Calientes sauce from the Hot Ones series. It features a blend of hot peppers, spices, and tangy ingredients like apple cider vinegar and lime juice. This sauce offers a medium heat level with a rich and flavorful taste, perfect for adding a kick to a variety of dishes.',
         scoville: 36000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Los-Calientes-Rojo-Hot-Sauce-5-oz-1.jpg?v=1676489337&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8810,7 +8810,7 @@ module.exports = {
         description:
           'Seed Ranch Hot Thai Green is a hot sauce that combines the flavors of Thai chili peppers, lemongrass, and lime. It offers a medium heat level with a zesty and aromatic taste. This sauce is ideal for adding a touch of Thai-inspired spice to stir-fries, noodles, and marinades.',
         scoville: 6000,
-        img: 'img',
+        img: 'https://goodiesgonewild.com/wp-content/uploads/2021/05/Seed-Ranch-hot-thai-green.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8820,7 +8820,7 @@ module.exports = {
         description:
           'Pepper North Stargazer is a hot sauce that features a blend of fiery hot peppers, including Carolina Reaper and ghost peppers, with a touch of sweetness from pineapple and lime. It offers a high heat level with a tropical and tangy flavor. This sauce is great for those who enjoy a balance of heat and fruitiness.',
         scoville: 30000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/stargazer.jpg?v=1628212159&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8830,7 +8830,7 @@ module.exports = {
         description:
           'Dingo Sauce Co. Widow Maker is a hot sauce that brings the heat with a blend of super-hot peppers, including Carolina Reaper and ghost peppers. It offers an intense level of heat with a bold and robust flavor. This sauce is for the true spice enthusiasts who want to experience extreme spiciness.',
         scoville: 70000,
-        img: 'img',
+        img: 'https://leagueoffire.com/wp-content/uploads/2021/05/Dingo-Widowmaker.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8840,7 +8840,7 @@ module.exports = {
         description:
           'Hot Ones The Classic Garlic Fresno Edition is a variation of the classic Hot Ones sauce, featuring the addition of garlic and Fresno chili peppers. It offers a medium heat level with a savory and tangy taste. This sauce is versatile and can be used as a condiment or ingredient in a wide range of dishes.',
         scoville: 2000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0188/0032/products/hot-ones-the-classic-garlic-fresno-sauce-gluten-free-heat-level-02-meta-related-collection-chilly-chiles-bottle-ingredient-steak-sauces-condiment-distilled-409_400x400.jpg?v=1679158246',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8850,7 +8850,7 @@ module.exports = {
         description:
           'Steel City Sauce Co Jade Jaguar is a hot sauce that combines the flavors of jalapeños, lime, and cilantro. It offers a mild to medium heat level with a refreshing and tangy flavor. This sauce is great for adding a zing to tacos, burritos, and grilled vegetables.',
         scoville: 20000,
-        img: 'img',
+        img: 'https://images.squarespace-cdn.com/content/v1/6058ec06e9451f5b0cb001c6/1616446940058-CG2S0ESMIV981RJ97PNQ/jade+jaguar.jpg?format=1000w',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8860,7 +8860,7 @@ module.exports = {
         description:
           'Fresco Sauce Co Chipotle & Habanero is a hot sauce that features the smoky and spicy flavors of chipotle peppers and habanero peppers. It offers a medium heat level with a rich and robust taste. This sauce is perfect for adding a smoky kick to barbecue, grilled meats, and chili.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/71cSLx+f+0L.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8870,7 +8870,7 @@ module.exports = {
         description:
           'Hotter Than El Ghost Sauce is a hot sauce that features the intense heat of ghost peppers. It offers a high level of spiciness with a strong and fiery flavor. This sauce is for those who seek extreme heat and want to add a serious kick to their meals.',
         scoville: 22000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0603/4876/0288/products/hotter_than_el_ghost.jpg?v=1639475870',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8880,7 +8880,7 @@ module.exports = {
         description:
           'Seafire Gourmet Reaper is a hot sauce that showcases the intense heat of Carolina Reaper peppers. It offers a blistering level of spiciness with a bold and vibrant flavor. This sauce is not for the faint-hearted and is recommended for experienced chili lovers who can handle extreme heat.',
         scoville: 1200000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/seafire.jpg?v=1628213317&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8890,7 +8890,7 @@ module.exports = {
         description:
           "Volcanic Pepper's Thor's Hammer is a hot sauce that combines a variety of super-hot peppers, including Carolina Reaper and ghost peppers, with a blend of spices and vinegar. It offers an intense level of heat with a complex and flavorful taste. This sauce is perfect for those who enjoy the thrill of extreme spiciness.",
         scoville: 400000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/thorshammer_600x.JPG?v=1579498304',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8900,7 +8900,7 @@ module.exports = {
         description:
           'Monoloco Pierde Almas is a hot sauce with a bold and smoky flavor profile. It combines a blend of hot peppers, spices, and smoky elements to create a unique taste experience. This sauce offers a medium heat level and is great for adding a kick to grilled meats, tacos, and Tex-Mex dishes.',
         scoville: 100000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/Monoloco.jpg?v=1628211893&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8910,7 +8910,7 @@ module.exports = {
         description:
           "Dawson's Shawarma Sauce is a hot sauce inspired by Middle Eastern flavors. It features a blend of spices, garlic, and tangy ingredients that are commonly found in traditional shawarma recipes. This sauce offers a medium heat level with a savory and aromatic taste. It pairs well with grilled meats, falafel, and pita sandwiches.",
         scoville: 1500,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0603/4876/0288/products/dawsons_shawarma.jpg?v=1639475843',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8920,7 +8920,7 @@ module.exports = {
         description:
           "Shaquanda's West Indian Curry is a hot sauce that brings the flavors of West Indian cuisine to your plate. It combines a blend of hot peppers, spices, and aromatic ingredients that are commonly used in curry dishes. This sauce offers a medium heat level with a rich and complex flavor. It is perfect for adding a spicy kick to curries, rice dishes, and stews.",
         scoville: 3000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0662/4159/products/WestIndianCurryfront_1024x1024_c78ca53d-a260-4b4f-9dbb-f16dd2d2eafa_large.jpg?v=1610833450',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8930,7 +8930,7 @@ module.exports = {
         description:
           'Angry Goat Pepper Company Goat Rider is a hot sauce that combines the flavors of habanero peppers, roasted garlic, and lime juice. It offers a medium heat level with a tangy and savory taste. This sauce is versatile and can be used as a condiment or ingredient in various recipes, adding a flavorful kick to dishes like tacos, burgers, and grilled vegetables.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0345/3865/1693/products/GoatRiderHotSauce_3043x.jpg?v=1630461162',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8940,7 +8940,7 @@ module.exports = {
         description:
           'Heartbeat Hot Sauce Company Scorpion is a hot sauce that features the intense heat of scorpion peppers. It offers a high level of spiciness with a rich and bold flavor. This sauce is for those who enjoy a powerful kick and want to add an extra level of heat to their dishes.',
         scoville: 20000,
-        img: 'img',
+        img: 'https://s3.amazonaws.com/cdn.mohotta.com/images/uploads/6364_2237_large.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8950,7 +8950,7 @@ module.exports = {
         description:
           'Hell Fire Detroit Bourbon Habanero Ghost is a hot sauce that combines the heat of habanero and ghost peppers with the rich and smoky flavor of bourbon. It offers a medium to high heat level with a complex and flavorful taste. This sauce is perfect for barbecue, grilled meats, and adding a kick to cocktails.',
         scoville: 80000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0870/1404/products/HFD_bourbon_front_white_1200x1200.jpg?v=1673911999',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8960,7 +8960,7 @@ module.exports = {
         description:
           'PuckerButt Pepper Company Chipotle eXpress is a hot sauce that features the smoky and savory flavors of chipotle peppers. It offers a medium heat level with a bold and tangy taste. This sauce is great for adding a smoky kick to Mexican dishes, grilled meats, and marinades.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/51adp1fHx+L.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8970,7 +8970,7 @@ module.exports = {
         description:
           'Apollo: Hot Ones The Last Dab: Apollo is a hot sauce created for the Hot Ones series. It features a blend of hot peppers, including the Apollo pepper, which is a unique hybrid chili. This sauce delivers a high level of heat with a complex and fiery flavor. It is recommended for those who enjoy intense spiciness.',
         scoville: 2500000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0490/7640/4385/products/ProductShot_MarksHotSauce_BarbadosStyle_Web_2000_V3_2000x.jpg?v=1668747442',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8980,7 +8980,7 @@ module.exports = {
         description:
           'Hot N Saucy Garlic N Peperoncini is a hot sauce that combines the bold flavors of garlic and peperoncini peppers. It offers a medium heat level with a tangy and garlicky taste. This sauce is perfect for adding a kick to pasta dishes, pizzas, and sandwiches.',
         scoville: 3000,
-        img: 'img',
+        img: 'https://www.saucespiquantes.ca//img/product/Devil_s_Blend_Salsa_Verde_2_P1-Z.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -8990,7 +8990,7 @@ module.exports = {
         description:
           "Mark's Barbados Style is a hot sauce inspired by the flavors of Barbadian cuisine. It combines a blend of hot peppers, vinegar, and spices to create a zesty and tangy taste. This sauce offers a medium heat level and is perfect for adding a kick to Caribbean dishes, grilled meats, and seafood.",
         scoville: 10000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0490/7640/4385/products/ProductShot_MarksHotSauce_BarbadosStyle_Web_2000_V3_2000x.jpg?v=1668747442',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9000,7 +9000,7 @@ module.exports = {
         description:
           "Hellfire Devil's Blend is a hot sauce that features a unique combination of hot peppers, spices, and a touch of sweetness. It offers a medium to high heat level with a complex and flavorful taste. This sauce is versatile and can be used to enhance the flavor of a wide range of dishes.",
         scoville: 500000,
-        img: 'img',
+        img: 'https://www.saucespiquantes.ca//img/product/Devil_s_Blend_Salsa_Verde_2_P1-Z.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9010,7 +9010,7 @@ module.exports = {
         description:
           'High River Sauces Tears of the Sun Private Reserve is a limited-edition hot sauce that offers a high level of heat and intense flavor. It features a blend of super-hot peppers, along with a variety of spices and aromatic ingredients. This sauce is for those who enjoy extreme spiciness and want to add a fiery kick to their meals.',
         scoville: 49000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/TEARS.jpg?v=1616536993&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9020,7 +9020,7 @@ module.exports = {
         description:
           'Torchbearer Sauces Honey Badger is a hot sauce that combines the sweetness of honey with the heat of hot peppers. It offers a medium heat level with a balance of sweet and spicy flavors. This sauce is great for adding a touch of heat to dishes like chicken wings, sandwiches, and roasted vegetables.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0345/3865/1693/products/TorchbearerSaucesHoneyBadgerHoneyMustard_756x.jpg?v=1639329583',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9030,7 +9030,7 @@ module.exports = {
         description:
           'Hot Ones Eye of the Scorpion is a hot sauce created for the Hot Ones series. It features a blend of hot peppers, including the Scorpion pepper, which is known for its intense heat. This sauce delivers a high level of spiciness with a bold and fiery flavor. It is recommended for experienced chili enthusiasts.',
         scoville: 50000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0490/7640/4385/products/hot-sauce-hot-ones-eye-of-the-scorpion-1_2000x.jpg?v=1627474828',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9040,7 +9040,7 @@ module.exports = {
         description:
           'Savir Foods Jala Pepa is a hot sauce that combines the flavors of jalapeño peppers, garlic, and spices. It offers a medium heat level with a tangy and slightly smoky taste. This sauce is versatile and can be used as a condiment or ingredient in various recipes, adding a delicious kick to dishes like tacos, burgers, and eggs.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/unnamed_cf2dfdc0-aa6a-4e83-ae99-29e964cd37eb.jpg?v=1668647239',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9050,7 +9050,7 @@ module.exports = {
         description:
           'Cantina Royal Tomasa is a hot sauce inspired by Mexican flavors. It features a blend of hot peppers, vinegar, and spices to create a zesty and flavorful taste. This sauce offers a medium heat level and is perfect for adding a kick to Mexican dishes, salsas, and marinades.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://i5.walmartimages.com/asr/c3a34900-2a92-485f-874e-bc4091a0256f.9ca19cf5b374ee9a96e040ded1e4fff9.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9060,7 +9060,7 @@ module.exports = {
         description:
           'Hot Ones Los Calientes Barbacoa Hot Sauce is a variation of the popular Los Calientes sauce from the Hot Ones series. It combines a blend of hot peppers, tangy ingredients, and smoky flavors, reminiscent of traditional barbacoa. This sauce offers a medium heat level with a savory and barbecue-inspired taste.',
         scoville: 36000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/516-tH-1PyL.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9070,7 +9070,7 @@ module.exports = {
         description:
           'The Original Goat Ginger Goat is a hot sauce that combines the heat of hot peppers with the zing of ginger. It offers a medium heat level with a unique and refreshing flavor. This sauce is perfect for adding a spicy and tangy kick to Asian-inspired dishes, stir-fries, and sushi rolls.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0603/4876/0288/products/ginger_goat.jpg?v=1639475851',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9080,7 +9080,7 @@ module.exports = {
         description:
           'High Desert Sauce Co. Tikk-Hot Masala is a hot sauce that draws inspiration from the flavors of Indian masala. It features a blend of hot peppers, aromatic spices, and tangy ingredients. This sauce offers a medium heat level with a complex and flavorful taste. It is perfect for adding a spicy kick to Indian dishes, curries, and rice.',
         scoville: 30000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/51Lojh7xnCS.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9090,7 +9090,7 @@ module.exports = {
         description:
           'Hotter Than El Love Burns is a hot sauce that combines the heat of super-hot peppers with a touch of sweetness. It offers a high level of spiciness with a unique and balanced flavor. This sauce is for those who enjoy intense heat and want to experience a blend of fiery and sweet taste sensations.',
         scoville: 40000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0603/4876/0288/products/hotter_than_el_love_burns_600x600_crop_center.jpg?v=1639475871',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9100,7 +9100,7 @@ module.exports = {
         description:
           'Karma Sauce Scorpion Disco is a hot sauce that features the intense heat of scorpion peppers. It offers a high level of spiciness with a rich and bold flavor. This sauce is perfect for those who enjoy a powerful kick and want to add an extra level of heat to their dishes.',
         scoville: 15000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0603/4876/0288/products/Karma_sauce_scorpion_disco.jpg?v=1639475874',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9110,7 +9110,7 @@ module.exports = {
         description:
           'Yellowbird Foods Bliss & Vinegar is a hot sauce that combines the heat of hot peppers with the tanginess of vinegar. It offers a medium heat level with a bright and zesty flavor. This sauce is great for adding a kick to salads, tacos, and grilled vegetables.',
         scoville: 3000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/512FTltvGvL.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9120,7 +9120,7 @@ module.exports = {
         description:
           "Hoff & Pepper Hoff's Haus Sauce is a hot sauce that combines the flavors of peppers, garlic, and spices. It offers a medium heat level with a savory and robust taste. This sauce is versatile and can be used as a condiment or ingredient in various recipes, adding a delicious kick to dishes like burgers, sandwiches, and pizzas.",
         scoville: 3000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/hotones-hoff-hotsauce.jpg?v=1631222666',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9130,7 +9130,7 @@ module.exports = {
         description:
           'Hot Heads Official Revolutionary Hot Sauce is a hot sauce that offers a unique blend of hot peppers, spices, and tangy ingredients. It offers a medium heat level with a bold and flavorful taste. This sauce is perfect for adding a kick to a wide range of dishes, from meats to vegetables.',
         scoville: 30000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/hotones-hotheads-hotsauce.jpg?v=1631223076',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9140,7 +9140,7 @@ module.exports = {
         description:
           'Señor Lechuga .718 Hot Sauce is a hot sauce that features a blend of hot peppers, citrus, and spices. It offers a medium heat level with a tangy and refreshing flavor. This sauce is inspired by Caribbean cuisine and is perfect for adding a kick to seafood, tacos, and grilled meats.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://hotsaucefindr.b-cdn.net/images/sauces/357/1-1.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9150,7 +9150,7 @@ module.exports = {
         description:
           'Chile Lengua de Fuego Bhutila Fire Hot Sauce is a hot sauce that features the intense heat of bhut jolokia, also known as the ghost pepper. It offers a high level of spiciness with a bold and fiery flavor. This sauce is for those who enjoy extreme heat and want to add a serious kick to their meals.',
         scoville: 30000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/BhutilaFire.jpg?v=1653267186',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9160,7 +9160,7 @@ module.exports = {
         description:
           'Hellfire Kranked Hot Sauce is a hot sauce that combines a blend of super-hot peppers, spices, and vinegar. It offers a high level of spiciness with a complex and robust flavor. This sauce is perfect for those who crave intense heat and want to elevate the flavor of their favorite dishes.',
         scoville: 45000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/hotones-kranked-hotsauce.jpg?v=1631223105',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9170,7 +9170,7 @@ module.exports = {
         description:
           "Dawson's Hot Sauce Cedar Smoked Garlic is a hot sauce that features the flavors of smoky cedar and garlic. It offers a medium heat level with a unique and aromatic taste. This sauce is perfect for adding a smoky kick to grilled meats, roasted vegetables, and dips.",
         scoville: 4000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/DAWSONSCEDARSMOKEGARLIC_c5097f2f-ad02-48f6-bdbd-72b5549f2878.jpg?v=1641410802',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9180,7 +9180,7 @@ module.exports = {
         description:
           'Clark + Hopkins Calabria Hot Sauce is a hot sauce inspired by the flavors of Calabrian cuisine in Italy. It features a blend of Calabrian chili peppers, spices, and olive oil. This sauce offers a medium heat level with a rich and savory taste. It is perfect for adding a kick to pasta dishes, pizza, and grilled vegetables.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/CALABRIA-CLARCKSANDHOPKINS_977370d1-4912-42ed-8582-38c1bed48335.jpg?v=1642699271',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9190,7 +9190,7 @@ module.exports = {
         description:
           'Angry Goat Pepper Co. The Phoenix is a hot sauce that combines the heat of habanero peppers with the sweetness of agave nectar and fruit. It offers a medium heat level with a balanced and flavorful taste. This sauce is great for adding a spicy and sweet kick to barbecue, burgers, and tacos.',
         scoville: 6000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/ANGRYGOATTHEPHOENIX_b27a4a5e-993c-4d58-8eda-097075368009.jpg?v=1641842884',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9200,7 +9200,7 @@ module.exports = {
         description:
           'Queen Majesty Cocoa Ghost Hot Sauce is a unique hot sauce that combines the heat of ghost peppers with the rich flavors of cocoa and coffee. It offers a medium to high heat level with a complex and indulgent taste. This sauce is perfect for adding a bold and spicy kick to desserts, grilled meats, and stews.',
         scoville: 33000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/QUEENMAJESTYCOCOAGHOST.jpg?v=1641410535',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9210,7 +9210,7 @@ module.exports = {
         description:
           '13 Angry Scorpions Jekyll & Hyde is a hot sauce that features a blend of super-hot peppers, including Carolina Reaper and Trinidad Scorpion, with a mix of spices and tangy ingredients. It offers an intense heat level with a bold and flavorful taste. This sauce is for those who enjoy extreme spiciness and want to add a serious kick to their meals.',
         scoville: 40000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/13angryscorpions_7418f521-3ead-48dc-8ea2-8301ccc2e7d4.jpg?v=1641410842',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9220,7 +9220,7 @@ module.exports = {
         description:
           'Puckerbutt Pepper Company Extra Mean Green Hot Sauce is a hot sauce that combines the heat of jalapeño peppers with a blend of spices and vinegar. It offers a medium heat level with a tangy and zesty flavor. This sauce is versatile and can be used as a condiment or ingredient in various recipes, adding a delicious kick to dishes like tacos, sandwiches, and salads.',
         scoville: 15000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/EXTRAMEANGREEN_796ba102-a2aa-4793-81c1-0f9ce3923b46.jpg?v=1641842760',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9230,7 +9230,7 @@ module.exports = {
         description:
           'Adoboloco Island Wings is a hot sauce that combines the flavors of Hawaiian chili peppers, vinegar, and spices. It offers a medium heat level with a tangy and slightly smoky taste. This sauce is perfect for adding a kick to chicken wings, grilled meats, and tropical-inspired dishes.',
         scoville: 2000,
-        img: 'img',
+        img: 'https://adoboloco.com/wp-content/uploads/2022/09/IslandWings-1up-Front-scaled.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9240,7 +9240,7 @@ module.exports = {
         description:
           'Burns & McCoy Mezcaline Oaxacan Hot Sauce is a hot sauce that features a blend of hot peppers, mezcal, and spices. It offers a medium to high heat level with a smoky and complex flavor. This sauce is perfect for adding a unique and fiery kick to Mexican dishes, salsas, and marinades.',
         scoville: 45000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/HOTONES-SEASON18-Mezcaline.jpg?v=1652725172',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9250,7 +9250,7 @@ module.exports = {
         description:
           'Hot Ones Los Calientes Verde is a variation of the popular Los Calientes sauce from the Hot Ones series. It combines a blend of hot peppers, tangy ingredients, and fresh herbs to create a vibrant and flavorful taste. This sauce offers a medium heat level and is perfect for adding a zesty kick to a variety of dishes.',
         scoville: 36000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/Hot-Ones-Los-Calientes-Hot-Sauce-5-oz-1.jpg?v=1676489192&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9260,7 +9260,7 @@ module.exports = {
         description:
           'Sauce Leopard The Seventh Reaper is a hot sauce that features a blend of super-hot peppers, including the Reaper pepper, with a mix of spices and tangy ingredients. It offers an intense heat level with a bold and flavorful taste. This sauce is for those who enjoy extreme spiciness and want to add a serious kick to their meals.',
         scoville: 400000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/HOTONES-SEASON18seventh.jpg?v=1652728995',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9270,7 +9270,7 @@ module.exports = {
         description:
           'Hot N Saucy Collards N Ghost is a hot sauce that combines the heat of ghost peppers with the flavors of collard greens. It offers a medium to high heat level with a unique and savory taste. This sauce is great for adding a Southern twist to dishes like collard greens, mac and cheese, and barbecue.',
         scoville: 35000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/HOTONES-SEASON18-collardsnghost_28e5767f-d2c4-4b58-b7cc-a443e69dd93b.jpg?v=1652971436',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9280,7 +9280,7 @@ module.exports = {
         description:
           "Halogi Hot Sauce Tyrfing's Curse is a hot sauce that draws inspiration from Scandinavian flavors. It features a blend of hot peppers, spices, and tangy ingredients. This sauce offers a medium heat level with a complex and flavorful taste. It is perfect for adding a kick to Scandinavian-inspired dishes, grilled meats, and sandwiches.",
         scoville: 15000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/HOTONES-SEASON18-Halogi.jpg?v=1652731253',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9290,7 +9290,7 @@ module.exports = {
         description:
           'Dingo Sauce Co. Psycho Hot Sauce is a hot sauce that combines the heat of super-hot peppers with a mix of spices and tangy ingredients. It offers an intense heat level with a bold and fiery flavor. This sauce is for those who enjoy extreme spiciness and want to add a serious kick to their meals.',
         scoville: 100000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/HOTONES-SEASON18-psycho.jpg?v=1652731381',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9300,7 +9300,7 @@ module.exports = {
         description:
           'Hot Ones The Classic Chili Maple Edition is a variation of the classic Hot Ones sauce, featuring the addition of chili and maple flavors. It offers a medium heat level with a sweet and smoky taste. This sauce is versatile and can be used as a condiment or ingredient in a wide range of dishes, adding a touch of heat and sweetness.',
         scoville: 2000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0490/7640/4385/products/ProductShot_HotOnes_TheClassicChiliMaple_Web_2000_2000x.jpg?v=1673229139',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9310,7 +9310,7 @@ module.exports = {
         description:
           'Sinai Gourmet Tropiquanté is a hot sauce that combines the flavors of tropical fruits with a kick of heat. It offers a medium heat level with a tangy and fruity taste. This sauce is perfect for adding a tropical twist to dishes like seafood, salads, and grilled chicken.',
         scoville: 15000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/Sinai-Gourmet-Tropiquante-Hot-Sauce-5-oz-1_c6e9f03f-5b3c-4844-86e3-7c5987024a23.jpg?v=1663790697&width=680',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9320,7 +9320,7 @@ module.exports = {
         description:
           'Microsaucerie Piko Peppers Piko Riko is a hot sauce that features a blend of hot peppers, spices, and tangy ingredients. It offers a medium heat level with a zesty and aromatic flavor. This sauce is great for adding a kick to dishes like tacos, burritos, and eggs.',
         scoville: 6000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0490/7640/4385/products/ProductShot_MicrosauceriePikoPeppers_PikoRiko_Web_2000_2000x.jpg?v=1673229395',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9330,7 +9330,7 @@ module.exports = {
         description:
           'Fly By Jing Sichuan Gold is a hot sauce that draws inspiration from Sichuan cuisine. It features a blend of Sichuan peppers, spices, and tangy ingredients. This sauce offers a medium heat level with a bold and complex taste. It is perfect for adding a spicy and numbing kick to stir-fries, noodles, and dumplings.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://m.media-amazon.com/images/I/71jCh1xR11L._AC_UF894,1000_QL80_.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9340,7 +9340,7 @@ module.exports = {
         description:
           'Chili Lengua de Fuego Turmeric Bomb is a hot sauce that combines the heat of chili peppers with the vibrant flavors of turmeric. It offers a medium heat level with a tangy and earthy taste. This sauce is great for adding a kick and a burst of color to dishes like curries, rice bowls, and roasted vegetables.',
         scoville: 30000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0188/0032/products/lengua-de-fuego-turmeric-bomb-hot-sauce-heat-level-06-ones-meta-related-collection-heatonist-chilly-chiles-216.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9350,7 +9350,7 @@ module.exports = {
         description:
           'Karma Sauce Cosmic Disco is a hot sauce that combines a variety of hot peppers, spices, and tangy ingredients. It offers a medium to high heat level with a complex and flavorful taste. This sauce is perfect for adding a kick to dishes like tacos, stir-fries, and grilled meats. The Cosmic Disco sauce is known for its vibrant and groovy flavor profile.',
         scoville: 15000,
-        img: 'img',
+        img: 'https://flowercityflavor.com/wp-content/uploads/2022/09/karma-sauce-cosmic-disco-hot-sauce.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9360,7 +9360,7 @@ module.exports = {
         description:
           'Puckerbutt Pepper Co. Unique Garlique is a hot sauce that blends the heat of peppers with the bold flavor of garlic. It offers a medium heat level with a strong garlic taste. This sauce is perfect for garlic lovers who want to add a spicy kick to their favorite dishes, including pasta, pizza, and marinades.',
         scoville: 10000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0490/7640/4385/products/ProductShot_PuckerbuttPepperCo_UniqueGarlique_Web_2000_2000x.jpg?v=1673229963',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9370,7 +9370,7 @@ module.exports = {
         description:
           "Shaquanda's Banjee Ranch is a hot sauce that combines the flavors of ranch dressing with a spicy twist. It offers a medium heat level with a creamy and tangy taste. This sauce is great for adding a kick to salads, sandwiches, and dips. The Banjee Ranch sauce adds a unique and flavorful element to your favorite dishes.",
         scoville: 4000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0188/0032/products/shaquandas-banjee-ranch-hot-sauce-heat-level-02-ones-meta-related-collection-heatonist-chilly-chiles-644.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9380,7 +9380,7 @@ module.exports = {
         description:
           'Donis Cadejo is a hot sauce inspired by Central American flavors. It features a blend of hot peppers, spices, and tangy ingredients. This sauce offers a medium heat level with a savory and bold taste. It is perfect for adding a kick to traditional Central American dishes, such as pupusas, tacos, and tamales.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/2086/9287/products/Donis-Cadejo-Hot-Sauce-5-oz-1_f341e24a-949b-415a-814a-1f276fc023e0.jpg?v=1673987004',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9390,7 +9390,7 @@ module.exports = {
         description:
           'Brooklyn Delhi Bhut Jolokia Ghost Pepper is a hot sauce that showcases the intense heat of the ghost pepper, also known as Bhut Jolokia. It offers a high level of spiciness with a smoky and fruity flavor. This sauce is perfect for those who enjoy extreme heat and want to add a fiery kick to their meals.',
         scoville: 25000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0188/0032/products/brooklyn-delhi-bhut-jolokia-ghost-pepper-hot-sauce-heat-level-05-ones-meta-related-collection-heatonist-chilly-chiles-567.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9400,7 +9400,7 @@ module.exports = {
         description:
           'Torchbearer Sauces Mushroom Mayhem is a hot sauce that combines the heat of hot peppers with the savory flavors of mushrooms. It offers a medium heat level with a rich and umami taste. This sauce is great for adding a kick and depth of flavor to dishes like pasta, risotto, and grilled vegetables.',
         scoville: 8000,
-        img: 'img',
+        img: 'https://www.torchbearersauces.com/wp-content/uploads/2023/04/Mushroom-Mayhem-front.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9410,7 +9410,7 @@ module.exports = {
         description:
           'Angry Goat Pepper Dream of Calypso Private Reserve is a limited-edition hot sauce that offers a high level of spiciness and complex flavor. It features a blend of hot peppers, tropical fruits, and aromatic spices. This sauce is perfect for those who enjoy a bold and fiery kick with hints of tropical sweetness.',
         scoville: 15000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0645/7913/products/image_a810a3ac-58f7-4f61-93e6-e0b0895a595b_600x.jpg?v=1636259256',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9420,7 +9420,7 @@ module.exports = {
         description:
           'Butterfly Bakery Taco Vibes Only is a hot sauce inspired by the flavors of Mexican cuisine. It combines a blend of hot peppers, spices, and tangy ingredients. This sauce offers a medium heat level with a zesty and vibrant taste. It is perfect for adding a kick to tacos, burritos, and other Mexican-inspired dishes. The Taco Vibes Only sauce adds a delicious and spicy element to your favorite tacos.',
         scoville: 2000,
-        img: 'img',
+        img: 'https://cdn.shopify.com/s/files/1/0188/0032/products/butterfly-bakery-taco-vibes-only-hot-sauce-heat-level-09-ones-meta-related-collection-heatonist-chilly-chiles-664.jpg',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9430,7 +9430,7 @@ module.exports = {
         description:
           'Pure Cayenne hot sauce by Southwest Specialty Foods is a fiery and versatile sauce made with pure cayenne peppers. It offers a bold and spicy flavor that is characteristic of cayenne peppers. This hot sauce adds a kick to any dish and is perfect for those who enjoy intense heat and a classic cayenne pepper taste.',
         scoville: 50000,
-        img: 'img',
+        img: 'https://asskickin-giftshop.com/wp-content/uploads/2017/07/FP13.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9440,7 +9440,7 @@ module.exports = {
         description:
           'Tabasco Green Pepper hot sauce by the McIlhenny Company is a unique and flavorful sauce made with green peppers. It offers a milder heat level compared to other Tabasco sauces but still delivers a tangy and zesty taste. This hot sauce adds a bright and refreshing flavor to a variety of dishes, making it a popular choice for those who prefer a milder yet flavorful heat.',
         scoville: 5000,
-        img: 'img',
+        img: 'https://shop.tabasco.com/media/catalog/product/cache/aedb4643a4e80e1d2c65abdb394bc06f/t/a/tabasco_greenjalapeno_cgi-productrender.png',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9450,7 +9450,7 @@ module.exports = {
         description:
           'Hellacious hot sauce by Hellacious Hot Sauce lives up to its name, offering a seriously hot and intense flavor experience. This sauce is known for its heat, packing a punch with a combination of fiery peppers and a blend of spices. It is perfect for heat seekers who crave extreme spiciness and want to add a fiery kick to their meals.',
         scoville: 100000,
-        img: 'img',
+        img: 'https://cdn11.bigcommerce.com/s-hzxyx5sspb/images/stencil/original/products/112/376/Hellacious__98167.1564782320.jpg?c=2',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
@@ -9460,7 +9460,7 @@ module.exports = {
         description:
           "Solgard Scorcher hot sauce by Solgard is a deliciously spicy and flavorful condiment. Made with a unique blend of peppers and other ingredients, this hot sauce delivers a balanced and robust taste. It offers a satisfying heat level that adds a kick to various dishes. Whether you're using it as a marinade, dipping sauce, or ingredient in recipes, Solgard Scorcher is sure to enhance your culinary creations with its fiery flavor.",
         scoville: 50000,
-        img: 'img',
+        img: 'https://shortyawards.imgix.net/entries/11th/5bbe6ea5-cbf8-48a0-a19d-6562cc93107c.png?auto=format&fit=crop&h=300&q=65&w=500&s=e314f9ed3ee8b300196ef6277d8a727d',
         likes: 0,
         episodes: ['646bafdba2cd4bbc1d0c437d'],
       },
